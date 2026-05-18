@@ -1,7 +1,7 @@
 import Anthropic from "@anthropic-ai/sdk";
 import { createRequire } from "module";
 const require = createRequire(import.meta.url);
-const facts = require("../src/data/facts.json");
+const facts = require("./facts.json");
 
 
 

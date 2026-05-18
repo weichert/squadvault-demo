@@ -17,27 +17,71 @@ RULES - non-negotiable:
 
 function buildContext(q) {
   const lq = q.toLowerCase();
-  const parts = [`LEAGUE: ${JSON.stringify(facts.meta)}`];
-  if (/champion|title|win|most|who has|who won/.test(lq))
+  const parts = [`LEAGUE META: ${JSON.stringify(facts.meta)}`];
+
+  // Championships & titles
+  if (/champion|title|won the most|who won|ring|trophy/.test(lq))
     parts.push(`CHAMPIONSHIPS: ${JSON.stringify(facts.championships)}`);
-  if (/blowout|biggest|margin|destroy/.test(lq))
-    parts.push(`BLOWOUTS: ${JSON.stringify(facts.blowouts)}`);
-  if (/worst season|0-14|worst record/.test(lq))
+
+  // Blowouts
+  if (/blowout|biggest|largest margin|destroy|demolish|massacre/.test(lq))
+    parts.push(`BLOWOUTS HALL: ${JSON.stringify(facts.blowouts)}`);
+
+  // Worst seasons
+  if (/worst season|worst record|0-14|most losses|terrible/.test(lq))
     parts.push(`WORST SEASONS: ${JSON.stringify(facts.worst_seasons)}`);
+
+  // Top player game scores
+  if (/most points|highest score|best week|greatest game|best player|best fantasy|most ever scored|single game|single week/.test(lq))
+    parts.push(`TOP PLAYER GAME SCORES: ${JSON.stringify(facts.top_player_games)}`);
+
+  // Closest games
+  if (/closest|narrowest|closest game|one point|tight|near miss|squeaker/.test(lq))
+    parts.push(`CLOSEST GAMES: ${JSON.stringify(facts.closest_games)}`);
+
+  // Highest team scores
+  if (/highest team|most points in a week|best team score|highest score ever|200 points/.test(lq))
+    parts.push(`HIGHEST TEAM SCORES: ${JSON.stringify(facts.highest_team_scores)}`);
+
+  // Franchise season summaries
+  if (/how did .+ do in|season record|points for|best season|season summary|ppg|per game/.test(lq))
+    parts.push(`FRANCHISE SEASONS: ${JSON.stringify(facts.franchise_seasons)}`);
+
+  // Head to head
+  if (/head.to.head|record against|vs |versus|rivalry|all.time record|matchup history/.test(lq))
+    parts.push(`HEAD TO HEAD: ${JSON.stringify(facts.head_to_head)}`);
+
+  // FAAB / waiver bids
+  if (/faab|waiver|pickup|bid|in.season|claimed/.test(lq))
+    parts.push(`TOP FAAB BIDS: ${JSON.stringify(facts.top_faab_bids)}`);
+
+  // Bench / left on bench
+  if (/bench|left on bench|should have started|wrong start|missed points/.test(lq))
+    parts.push(`BEST BENCH SCORES: ${JSON.stringify(facts.best_bench_scores)}`);
+
+  // Draft & auction
+  if (/draft|auction|most expensive|bargain|bust|overpaid|underpaid/.test(lq))
+    parts.push(`DRAFT & AUCTION: ${JSON.stringify(facts.draft)}`);
+
+  // Franchise-specific lookups
   if (/brandon|bkb/.test(lq)) {
     parts.push(`BRANDON KNOWS BALL: ${JSON.stringify(facts.franchises["Brandon Knows Ball"])}`);
-    parts.push(`WORST SEASONS: ${JSON.stringify(facts.worst_seasons.slice(0,3))}`);
-    parts.push(`BLOWOUTS (as loser): ${JSON.stringify(facts.blowouts.filter(b=>b.loser==="Brandon Knows Ball"))}`);
+    parts.push(`WORST SEASONS (Brandon): ${JSON.stringify(facts.worst_seasons.filter(s=>s.franchise==="Brandon Knows Ball"))}`);
+    parts.push(`BLOWOUTS (Brandon as loser): ${JSON.stringify(facts.blowouts.filter(b=>b.loser==="Brandon Knows Ball"))}`);
   }
-  if (/paradis|playmakers/.test(lq))
-    parts.push(`PARADIS: ${JSON.stringify(facts.franchises["Paradis' Playmakers"])}`);
-  if (/draft|auction|bid|bargain|bust|expensive|barkley|mahomes|lamar/.test(lq))
-    parts.push(`DRAFT: ${JSON.stringify(facts.draft)}`);
+  if (/paradis|playmakers|kp/.test(lq))
+    parts.push(`PARADIS PLAYMAKERS: ${JSON.stringify(facts.franchises["Paradis' Playmakers"])}`);
+
+  // Fallback — broad question, include key sections
   if (parts.length === 1) {
     parts.push(`CHAMPIONSHIPS: ${JSON.stringify(facts.championships)}`);
+    parts.push(`TOP PLAYER GAMES: ${JSON.stringify(facts.top_player_games.slice(0,10))}`);
     parts.push(`BLOWOUTS: ${JSON.stringify(facts.blowouts.slice(0,5))}`);
-    parts.push(`WORST SEASONS: ${JSON.stringify(facts.worst_seasons.slice(0,3))}`);
+    parts.push(`CLOSEST GAMES: ${JSON.stringify(facts.closest_games.slice(0,5))}`);
+    parts.push(`WORST SEASONS: ${JSON.stringify(facts.worst_seasons.slice(0,5))}`);
+    parts.push(`HEAD TO HEAD: ${JSON.stringify(facts.head_to_head.slice(0,10))}`);
   }
+
   return parts.join("\n\n---\n\n");
 }
 

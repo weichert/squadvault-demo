@@ -618,5 +618,2936 @@
         "margin": 106.6
       }
     }
-  }
+  },
+  "highest_team_scores": [
+    {
+      "season": 2024,
+      "week": 14,
+      "score": 198.8,
+      "franchise_name": "Paradis' Playmakers",
+      "role": "winner"
+    },
+    {
+      "season": 2025,
+      "week": 7,
+      "score": 192.15,
+      "franchise_name": "Paradis' Playmakers",
+      "role": "winner"
+    },
+    {
+      "season": 2014,
+      "week": 8,
+      "score": 187.5,
+      "franchise_name": "Stu's Crew",
+      "role": "winner"
+    },
+    {
+      "season": 2022,
+      "week": 9,
+      "score": 187.3,
+      "franchise_name": "Miller's Genuine Draft",
+      "role": "winner"
+    },
+    {
+      "season": 2023,
+      "week": 4,
+      "score": 185.05,
+      "franchise_name": "Miller's Genuine Draft",
+      "role": "winner"
+    },
+    {
+      "season": 2024,
+      "week": 15,
+      "score": 183.9,
+      "franchise_name": "Ben's Gods",
+      "role": "winner"
+    },
+    {
+      "season": 2012,
+      "week": 9,
+      "score": 183.5,
+      "franchise_name": "Stu's Crew",
+      "role": "winner"
+    },
+    {
+      "season": 2022,
+      "week": 2,
+      "score": 180.8,
+      "franchise_name": "Stu's Crew",
+      "role": "winner"
+    },
+    {
+      "season": 2023,
+      "week": 5,
+      "score": 180.6,
+      "franchise_name": "Italian Cavallini",
+      "role": "winner"
+    },
+    {
+      "season": 2025,
+      "week": 12,
+      "score": 179.55,
+      "franchise_name": "Weichert's Warmongers",
+      "role": "winner"
+    },
+    {
+      "season": 2019,
+      "week": 8,
+      "score": 177.75,
+      "franchise_name": "Neal's Neat Guy's",
+      "role": "winner"
+    },
+    {
+      "season": 2020,
+      "week": 4,
+      "score": 177.7,
+      "franchise_name": "Miller's Genuine Draft",
+      "role": "winner"
+    },
+    {
+      "season": 2019,
+      "week": 5,
+      "score": 177.2,
+      "franchise_name": "Neal's Neat Guy's",
+      "role": "winner"
+    },
+    {
+      "season": 2025,
+      "week": 15,
+      "score": 176.9,
+      "franchise_name": "Paradis' Playmakers",
+      "role": "winner"
+    },
+    {
+      "season": 2019,
+      "week": 5,
+      "score": 174.5,
+      "franchise_name": "Italian Cavallini",
+      "role": "loser"
+    },
+    {
+      "season": 2024,
+      "week": 2,
+      "score": 173.05,
+      "franchise_name": "Brandon Knows Ball",
+      "role": "winner"
+    },
+    {
+      "season": 2022,
+      "week": 11,
+      "score": 172.5,
+      "franchise_name": "Italian Cavallini",
+      "role": "winner"
+    },
+    {
+      "season": 2022,
+      "week": 1,
+      "score": 172.15,
+      "franchise_name": "Purple Haze",
+      "role": "winner"
+    },
+    {
+      "season": 2023,
+      "week": 3,
+      "score": 170.2,
+      "franchise_name": "Miller's Genuine Draft",
+      "role": "winner"
+    },
+    {
+      "season": 2010,
+      "week": 1,
+      "score": 170.0,
+      "franchise_name": "Italian Cavallini",
+      "role": "winner"
+    }
+  ],
+  "franchise_seasons": [
+    {
+      "season": 2025,
+      "franchise_name": "Paradis' Playmakers",
+      "games": 18,
+      "wins": 16,
+      "losses": 2,
+      "points_for": 2482.3,
+      "ppg": 137.91,
+      "best_week": 192.15,
+      "worst_week": 85.7
+    },
+    {
+      "season": 2024,
+      "franchise_name": "Paradis' Playmakers",
+      "games": 18,
+      "wins": 10,
+      "losses": 8,
+      "points_for": 2401.2,
+      "ppg": 133.4,
+      "best_week": 198.8,
+      "worst_week": 96.8
+    },
+    {
+      "season": 2024,
+      "franchise_name": "Weichert's Warmongers",
+      "games": 18,
+      "wins": 12,
+      "losses": 6,
+      "points_for": 2214.9,
+      "ppg": 123.05,
+      "best_week": 148.9,
+      "worst_week": 70.85
+    },
+    {
+      "season": 2011,
+      "franchise_name": "Italian Cavallini",
+      "games": 16,
+      "wins": 13,
+      "losses": 3,
+      "points_for": 2117.5,
+      "ppg": 132.34,
+      "best_week": 165.5,
+      "worst_week": 85.0
+    },
+    {
+      "season": 2023,
+      "franchise_name": "Italian Cavallini",
+      "games": 18,
+      "wins": 11,
+      "losses": 7,
+      "points_for": 2117.2,
+      "ppg": 117.62,
+      "best_week": 180.6,
+      "worst_week": 87.75
+    },
+    {
+      "season": 2025,
+      "franchise_name": "Weichert's Warmongers",
+      "games": 18,
+      "wins": 11,
+      "losses": 7,
+      "points_for": 2107.35,
+      "ppg": 117.08,
+      "best_week": 179.55,
+      "worst_week": 85.05
+    },
+    {
+      "season": 2022,
+      "franchise_name": "Miller's Genuine Draft",
+      "games": 18,
+      "wins": 9,
+      "losses": 9,
+      "points_for": 2093.65,
+      "ppg": 116.31,
+      "best_week": 187.3,
+      "worst_week": 89.35
+    },
+    {
+      "season": 2018,
+      "franchise_name": "Miller's Genuine Draft",
+      "games": 16,
+      "wins": 14,
+      "losses": 2,
+      "points_for": 2055.15,
+      "ppg": 128.45,
+      "best_week": 158.1,
+      "worst_week": 86.5
+    },
+    {
+      "season": 2021,
+      "franchise_name": "Paradis' Playmakers",
+      "games": 18,
+      "wins": 8,
+      "losses": 10,
+      "points_for": 1992.85,
+      "ppg": 110.71,
+      "best_week": 156.4,
+      "worst_week": 72.25
+    },
+    {
+      "season": 2023,
+      "franchise_name": "Eddie & the Cruisers",
+      "games": 18,
+      "wins": 8,
+      "losses": 10,
+      "points_for": 1964.4,
+      "ppg": 109.13,
+      "best_week": 167.1,
+      "worst_week": 64.45
+    },
+    {
+      "season": 2021,
+      "franchise_name": "Stu's Crew",
+      "games": 18,
+      "wins": 12,
+      "losses": 6,
+      "points_for": 1955.6,
+      "ppg": 108.64,
+      "best_week": 141.9,
+      "worst_week": 65.45
+    },
+    {
+      "season": 2024,
+      "franchise_name": "Ben's Gods",
+      "games": 16,
+      "wins": 10,
+      "losses": 6,
+      "points_for": 1949.3,
+      "ppg": 121.83,
+      "best_week": 183.9,
+      "worst_week": 89.75
+    },
+    {
+      "season": 2023,
+      "franchise_name": "Miller's Genuine Draft",
+      "games": 15,
+      "wins": 10,
+      "losses": 5,
+      "points_for": 1924.85,
+      "ppg": 128.32,
+      "best_week": 185.05,
+      "worst_week": 78.3
+    },
+    {
+      "season": 2022,
+      "franchise_name": "Ben's Gods",
+      "games": 18,
+      "wins": 9,
+      "losses": 9,
+      "points_for": 1922.7,
+      "ppg": 106.82,
+      "best_week": 133.1,
+      "worst_week": 79.8
+    },
+    {
+      "season": 2023,
+      "franchise_name": "Paradis' Playmakers",
+      "games": 16,
+      "wins": 8,
+      "losses": 8,
+      "points_for": 1911.5,
+      "ppg": 119.47,
+      "best_week": 164.25,
+      "worst_week": 77.55
+    },
+    {
+      "season": 2018,
+      "franchise_name": "Stu's Crew",
+      "games": 16,
+      "wins": 10,
+      "losses": 6,
+      "points_for": 1887.0,
+      "ppg": 117.94,
+      "best_week": 154.05,
+      "worst_week": 91.15
+    },
+    {
+      "season": 2012,
+      "franchise_name": "Ben's Gods",
+      "games": 16,
+      "wins": 9,
+      "losses": 7,
+      "points_for": 1880.5,
+      "ppg": 117.53,
+      "best_week": 154.0,
+      "worst_week": 83.0
+    },
+    {
+      "season": 2024,
+      "franchise_name": "Purple Haze",
+      "games": 16,
+      "wins": 8,
+      "losses": 8,
+      "points_for": 1879.55,
+      "ppg": 117.47,
+      "best_week": 163.5,
+      "worst_week": 82.95
+    },
+    {
+      "season": 2025,
+      "franchise_name": "Italian Cavallini",
+      "games": 16,
+      "wins": 8,
+      "losses": 8,
+      "points_for": 1874.4,
+      "ppg": 117.15,
+      "best_week": 149.95,
+      "worst_week": 70.7
+    },
+    {
+      "season": 2020,
+      "franchise_name": "Paradis' Playmakers",
+      "games": 16,
+      "wins": 10,
+      "losses": 6,
+      "points_for": 1872.8,
+      "ppg": 117.05,
+      "best_week": 167.35,
+      "worst_week": 73.4
+    },
+    {
+      "season": 2022,
+      "franchise_name": "Weichert's Warmongers",
+      "games": 16,
+      "wins": 9,
+      "losses": 7,
+      "points_for": 1858.0,
+      "ppg": 116.13,
+      "best_week": 164.1,
+      "worst_week": 79.95
+    },
+    {
+      "season": 2012,
+      "franchise_name": "Paradis' Playmakers",
+      "games": 16,
+      "wins": 11,
+      "losses": 5,
+      "points_for": 1856.0,
+      "ppg": 116.0,
+      "best_week": 142.0,
+      "worst_week": 82.5
+    },
+    {
+      "season": 2022,
+      "franchise_name": "Paradis' Playmakers",
+      "games": 16,
+      "wins": 10,
+      "losses": 6,
+      "points_for": 1847.65,
+      "ppg": 115.48,
+      "best_week": 147.05,
+      "worst_week": 76.85
+    },
+    {
+      "season": 2020,
+      "franchise_name": "Robb's Raiders",
+      "games": 16,
+      "wins": 13,
+      "losses": 3,
+      "points_for": 1840.8,
+      "ppg": 115.05,
+      "best_week": 142.3,
+      "worst_week": 82.65
+    },
+    {
+      "season": 2013,
+      "franchise_name": "SS Express",
+      "games": 16,
+      "wins": 11,
+      "losses": 5,
+      "points_for": 1835.0,
+      "ppg": 114.69,
+      "best_week": 166.5,
+      "worst_week": 67.0
+    },
+    {
+      "season": 2025,
+      "franchise_name": "Stu's Crew",
+      "games": 15,
+      "wins": 7,
+      "losses": 8,
+      "points_for": 1810.6,
+      "ppg": 120.71,
+      "best_week": 151.9,
+      "worst_week": 87.95
+    },
+    {
+      "season": 2022,
+      "franchise_name": "Purple Haze",
+      "games": 15,
+      "wins": 9,
+      "losses": 6,
+      "points_for": 1784.65,
+      "ppg": 118.98,
+      "best_week": 172.15,
+      "worst_week": 62.0
+    },
+    {
+      "season": 2020,
+      "franchise_name": "Stu's Crew",
+      "games": 15,
+      "wins": 9,
+      "losses": 6,
+      "points_for": 1782.25,
+      "ppg": 118.82,
+      "best_week": 152.4,
+      "worst_week": 88.95
+    },
+    {
+      "season": 2025,
+      "franchise_name": "Purple Haze",
+      "games": 16,
+      "wins": 10,
+      "losses": 6,
+      "points_for": 1770.95,
+      "ppg": 110.68,
+      "best_week": 127.65,
+      "worst_week": 62.15
+    },
+    {
+      "season": 2020,
+      "franchise_name": "Italian Cavallini",
+      "games": 15,
+      "wins": 10,
+      "losses": 5,
+      "points_for": 1770.65,
+      "ppg": 118.04,
+      "best_week": 143.35,
+      "worst_week": 89.05
+    },
+    {
+      "season": 2010,
+      "franchise_name": "MGD",
+      "games": 16,
+      "wins": 9,
+      "losses": 7,
+      "points_for": 1755.0,
+      "ppg": 109.69,
+      "best_week": 154.0,
+      "worst_week": 32.5
+    },
+    {
+      "season": 2019,
+      "franchise_name": "Weichert's Warmongers",
+      "games": 16,
+      "wins": 10,
+      "losses": 6,
+      "points_for": 1751.0,
+      "ppg": 109.44,
+      "best_week": 152.15,
+      "worst_week": 83.15
+    },
+    {
+      "season": 2022,
+      "franchise_name": "Stu's Crew",
+      "games": 15,
+      "wins": 8,
+      "losses": 7,
+      "points_for": 1743.65,
+      "ppg": 116.24,
+      "best_week": 180.8,
+      "worst_week": 79.0
+    },
+    {
+      "season": 2024,
+      "franchise_name": "Stu's Crew",
+      "games": 15,
+      "wins": 8,
+      "losses": 7,
+      "points_for": 1736.8,
+      "ppg": 115.79,
+      "best_week": 156.1,
+      "worst_week": 88.95
+    },
+    {
+      "season": 2021,
+      "franchise_name": "Ben's Gods",
+      "games": 16,
+      "wins": 10,
+      "losses": 6,
+      "points_for": 1733.35,
+      "ppg": 108.33,
+      "best_week": 146.75,
+      "worst_week": 70.25
+    },
+    {
+      "season": 2024,
+      "franchise_name": "Brandon Knows Ball",
+      "games": 15,
+      "wins": 8,
+      "losses": 7,
+      "points_for": 1733.35,
+      "ppg": 115.56,
+      "best_week": 173.05,
+      "worst_week": 73.1
+    },
+    {
+      "season": 2025,
+      "franchise_name": "Miller's Genuine Draft",
+      "games": 15,
+      "wins": 10,
+      "losses": 5,
+      "points_for": 1730.75,
+      "ppg": 115.38,
+      "best_week": 142.15,
+      "worst_week": 82.55
+    },
+    {
+      "season": 2011,
+      "franchise_name": "MGD",
+      "games": 15,
+      "wins": 7,
+      "losses": 8,
+      "points_for": 1722.5,
+      "ppg": 114.83,
+      "best_week": 158.5,
+      "worst_week": 85.0
+    },
+    {
+      "season": 2021,
+      "franchise_name": "Purple Haze",
+      "games": 16,
+      "wins": 8,
+      "losses": 8,
+      "points_for": 1722.1,
+      "ppg": 107.63,
+      "best_week": 158.0,
+      "worst_week": 67.1
+    },
+    {
+      "season": 2022,
+      "franchise_name": "Robb's Raiders",
+      "games": 15,
+      "wins": 7,
+      "losses": 8,
+      "points_for": 1721.85,
+      "ppg": 114.79,
+      "best_week": 158.05,
+      "worst_week": 74.15
+    },
+    {
+      "season": 2019,
+      "franchise_name": "Italian Cavallini",
+      "games": 15,
+      "wins": 9,
+      "losses": 6,
+      "points_for": 1719.1,
+      "ppg": 114.61,
+      "best_week": 174.5,
+      "worst_week": 61.95
+    },
+    {
+      "season": 2012,
+      "franchise_name": "Stu's Crew",
+      "games": 15,
+      "wins": 8,
+      "losses": 7,
+      "points_for": 1718.5,
+      "ppg": 114.57,
+      "best_week": 183.5,
+      "worst_week": 79.5
+    },
+    {
+      "season": 2019,
+      "franchise_name": "Neal's Neat Guy's",
+      "games": 15,
+      "wins": 8,
+      "losses": 7,
+      "points_for": 1715.35,
+      "ppg": 114.36,
+      "best_week": 177.75,
+      "worst_week": 81.15
+    },
+    {
+      "season": 2022,
+      "franchise_name": "Italian Cavallini",
+      "games": 14,
+      "wins": 6,
+      "losses": 8,
+      "points_for": 1711.8,
+      "ppg": 122.27,
+      "best_week": 172.5,
+      "worst_week": 85.65
+    },
+    {
+      "season": 2011,
+      "franchise_name": "Stu's Crew",
+      "games": 15,
+      "wins": 8,
+      "losses": 7,
+      "points_for": 1711.0,
+      "ppg": 114.07,
+      "best_week": 139.0,
+      "worst_week": 92.0
+    },
+    {
+      "season": 2015,
+      "franchise_name": "Eddie & the Cruisers",
+      "games": 16,
+      "wins": 13,
+      "losses": 3,
+      "points_for": 1708.5,
+      "ppg": 106.78,
+      "best_week": 133.0,
+      "worst_week": 78.0
+    },
+    {
+      "season": 2023,
+      "franchise_name": "Ben's Gods",
+      "games": 15,
+      "wins": 10,
+      "losses": 5,
+      "points_for": 1701.2,
+      "ppg": 113.41,
+      "best_week": 165.65,
+      "worst_week": 43.9
+    },
+    {
+      "season": 2023,
+      "franchise_name": "Purple Haze",
+      "games": 15,
+      "wins": 9,
+      "losses": 6,
+      "points_for": 1700.65,
+      "ppg": 113.38,
+      "best_week": 146.65,
+      "worst_week": 69.65
+    },
+    {
+      "season": 2010,
+      "franchise_name": "Robb's Raiders",
+      "games": 16,
+      "wins": 9,
+      "losses": 7,
+      "points_for": 1700.0,
+      "ppg": 106.25,
+      "best_week": 143.5,
+      "worst_week": 77.5
+    },
+    {
+      "season": 2011,
+      "franchise_name": "SS Express",
+      "games": 14,
+      "wins": 7,
+      "losses": 7,
+      "points_for": 1697.0,
+      "ppg": 121.21,
+      "best_week": 169.0,
+      "worst_week": 88.0
+    },
+    {
+      "season": 2015,
+      "franchise_name": "Italian Cavallini",
+      "games": 15,
+      "wins": 12,
+      "losses": 3,
+      "points_for": 1691.0,
+      "ppg": 112.73,
+      "best_week": 159.0,
+      "worst_week": 79.5
+    },
+    {
+      "season": 2010,
+      "franchise_name": "Paradis' Playmakers",
+      "games": 15,
+      "wins": 9,
+      "losses": 6,
+      "points_for": 1682.5,
+      "ppg": 112.17,
+      "best_week": 132.5,
+      "worst_week": 83.0
+    },
+    {
+      "season": 2013,
+      "franchise_name": "Robb's Raiders",
+      "games": 15,
+      "wins": 9,
+      "losses": 6,
+      "points_for": 1681.0,
+      "ppg": 112.07,
+      "best_week": 148.0,
+      "worst_week": 59.5
+    },
+    {
+      "season": 2010,
+      "franchise_name": "Italian Cavallini",
+      "games": 14,
+      "wins": 9,
+      "losses": 5,
+      "points_for": 1675.0,
+      "ppg": 119.64,
+      "best_week": 170.0,
+      "worst_week": 59.5
+    },
+    {
+      "season": 2018,
+      "franchise_name": "Weichert's Warmongers",
+      "games": 15,
+      "wins": 7,
+      "losses": 8,
+      "points_for": 1667.9,
+      "ppg": 111.19,
+      "best_week": 130.3,
+      "worst_week": 79.85
+    },
+    {
+      "season": 2011,
+      "franchise_name": "Purple Haze",
+      "games": 16,
+      "wins": 9,
+      "losses": 7,
+      "points_for": 1667.0,
+      "ppg": 104.19,
+      "best_week": 128.0,
+      "worst_week": 88.5
+    },
+    {
+      "season": 2013,
+      "franchise_name": "Italian Cavallini",
+      "games": 16,
+      "wins": 10,
+      "losses": 6,
+      "points_for": 1665.0,
+      "ppg": 104.06,
+      "best_week": 133.0,
+      "worst_week": 74.5
+    },
+    {
+      "season": 2021,
+      "franchise_name": "Baber's Barristers",
+      "games": 15,
+      "wins": 7,
+      "losses": 8,
+      "points_for": 1661.5,
+      "ppg": 110.77,
+      "best_week": 134.95,
+      "worst_week": 80.55
+    },
+    {
+      "season": 2017,
+      "franchise_name": "Stu's Crew",
+      "games": 15,
+      "wins": 9,
+      "losses": 6,
+      "points_for": 1654.3,
+      "ppg": 110.29,
+      "best_week": 146.6,
+      "worst_week": 82.0
+    },
+    {
+      "season": 2021,
+      "franchise_name": "Eddie & the Cruisers",
+      "games": 15,
+      "wins": 10,
+      "losses": 5,
+      "points_for": 1650.0,
+      "ppg": 110.0,
+      "best_week": 162.15,
+      "worst_week": 91.6
+    },
+    {
+      "season": 2010,
+      "franchise_name": "Weichert's Warmongers",
+      "games": 14,
+      "wins": 9,
+      "losses": 5,
+      "points_for": 1643.5,
+      "ppg": 117.39,
+      "best_week": 157.0,
+      "worst_week": 59.5
+    },
+    {
+      "season": 2014,
+      "franchise_name": "Stu's Crew",
+      "games": 16,
+      "wins": 9,
+      "losses": 7,
+      "points_for": 1643.0,
+      "ppg": 102.69,
+      "best_week": 187.5,
+      "worst_week": 62.5
+    },
+    {
+      "season": 2015,
+      "franchise_name": "Weichert's Warmongers",
+      "games": 15,
+      "wins": 10,
+      "losses": 5,
+      "points_for": 1640.5,
+      "ppg": 109.37,
+      "best_week": 147.5,
+      "worst_week": 57.5
+    },
+    {
+      "season": 2017,
+      "franchise_name": "Eddie & the Cruisers",
+      "games": 16,
+      "wins": 9,
+      "losses": 7,
+      "points_for": 1639.6,
+      "ppg": 102.48,
+      "best_week": 152.1,
+      "worst_week": 63.35
+    },
+    {
+      "season": 2025,
+      "franchise_name": "Eddie & the Cruisers",
+      "games": 15,
+      "wins": 6,
+      "losses": 9,
+      "points_for": 1638.65,
+      "ppg": 109.24,
+      "best_week": 154.0,
+      "worst_week": 66.3
+    },
+    {
+      "season": 2022,
+      "franchise_name": "Baber's Barristers",
+      "games": 15,
+      "wins": 8,
+      "losses": 7,
+      "points_for": 1633.15,
+      "ppg": 108.88,
+      "best_week": 140.55,
+      "worst_week": 72.55
+    },
+    {
+      "season": 2023,
+      "franchise_name": "Stu's Crew",
+      "games": 15,
+      "wins": 8,
+      "losses": 7,
+      "points_for": 1631.7,
+      "ppg": 108.78,
+      "best_week": 146.35,
+      "worst_week": 63.9
+    },
+    {
+      "season": 2011,
+      "franchise_name": "Eddie & the Cruisers",
+      "games": 14,
+      "wins": 9,
+      "losses": 5,
+      "points_for": 1628.5,
+      "ppg": 116.32,
+      "best_week": 165.5,
+      "worst_week": 79.0
+    },
+    {
+      "season": 2018,
+      "franchise_name": "Italian Cavallini",
+      "games": 14,
+      "wins": 7,
+      "losses": 7,
+      "points_for": 1627.4,
+      "ppg": 116.24,
+      "best_week": 146.7,
+      "worst_week": 67.55
+    },
+    {
+      "season": 2021,
+      "franchise_name": "Robb's Raiders",
+      "games": 15,
+      "wins": 7,
+      "losses": 8,
+      "points_for": 1624.65,
+      "ppg": 108.31,
+      "best_week": 145.25,
+      "worst_week": 72.5
+    },
+    {
+      "season": 2013,
+      "franchise_name": "Ben's Gods",
+      "games": 15,
+      "wins": 8,
+      "losses": 7,
+      "points_for": 1622.0,
+      "ppg": 108.13,
+      "best_week": 144.0,
+      "worst_week": 78.0
+    },
+    {
+      "season": 2012,
+      "franchise_name": "SS Express",
+      "games": 15,
+      "wins": 8,
+      "losses": 7,
+      "points_for": 1621.5,
+      "ppg": 108.1,
+      "best_week": 142.0,
+      "worst_week": 77.0
+    },
+    {
+      "season": 2018,
+      "franchise_name": "Ben's Gods",
+      "games": 15,
+      "wins": 8,
+      "losses": 7,
+      "points_for": 1614.9,
+      "ppg": 107.66,
+      "best_week": 155.9,
+      "worst_week": 68.35
+    },
+    {
+      "season": 2025,
+      "franchise_name": "Ben's Gods",
+      "games": 14,
+      "wins": 5,
+      "losses": 9,
+      "points_for": 1614.75,
+      "ppg": 115.34,
+      "best_week": 150.05,
+      "worst_week": 86.35
+    },
+    {
+      "season": 2024,
+      "franchise_name": "Italian Cavallini",
+      "games": 15,
+      "wins": 10,
+      "losses": 5,
+      "points_for": 1606.55,
+      "ppg": 107.1,
+      "best_week": 138.5,
+      "worst_week": 71.5
+    },
+    {
+      "season": 2012,
+      "franchise_name": "MGD",
+      "games": 14,
+      "wins": 7,
+      "losses": 7,
+      "points_for": 1604.5,
+      "ppg": 114.61,
+      "best_week": 142.0,
+      "worst_week": 66.5
+    },
+    {
+      "season": 2019,
+      "franchise_name": "Paradis' Playmakers",
+      "games": 16,
+      "wins": 11,
+      "losses": 5,
+      "points_for": 1603.1,
+      "ppg": 100.19,
+      "best_week": 128.85,
+      "worst_week": 56.95
+    },
+    {
+      "season": 2016,
+      "franchise_name": "Weichert's Warmongers",
+      "games": 16,
+      "wins": 9,
+      "losses": 7,
+      "points_for": 1601.0,
+      "ppg": 100.06,
+      "best_week": 125.0,
+      "worst_week": 69.5
+    },
+    {
+      "season": 2012,
+      "franchise_name": "Italian Cavallini",
+      "games": 14,
+      "wins": 5,
+      "losses": 9,
+      "points_for": 1598.0,
+      "ppg": 114.14,
+      "best_week": 147.0,
+      "worst_week": 92.5
+    },
+    {
+      "season": 2016,
+      "franchise_name": "SS Express",
+      "games": 16,
+      "wins": 12,
+      "losses": 4,
+      "points_for": 1596.5,
+      "ppg": 99.78,
+      "best_week": 140.5,
+      "worst_week": 51.0
+    },
+    {
+      "season": 2011,
+      "franchise_name": "Weichert's Warmongers",
+      "games": 14,
+      "wins": 7,
+      "losses": 7,
+      "points_for": 1595.5,
+      "ppg": 113.96,
+      "best_week": 146.0,
+      "worst_week": 89.0
+    },
+    {
+      "season": 2010,
+      "franchise_name": "Purple Haze",
+      "games": 15,
+      "wins": 6,
+      "losses": 9,
+      "points_for": 1589.0,
+      "ppg": 105.93,
+      "best_week": 157.0,
+      "worst_week": 60.5
+    },
+    {
+      "season": 2012,
+      "franchise_name": "Robb's Raiders",
+      "games": 14,
+      "wins": 7,
+      "losses": 7,
+      "points_for": 1587.5,
+      "ppg": 113.39,
+      "best_week": 156.5,
+      "worst_week": 68.5
+    },
+    {
+      "season": 2015,
+      "franchise_name": "Ben's Gods",
+      "games": 16,
+      "wins": 8,
+      "losses": 8,
+      "points_for": 1585.5,
+      "ppg": 99.09,
+      "best_week": 138.5,
+      "worst_week": 64.5
+    },
+    {
+      "season": 2016,
+      "franchise_name": "Paradis' Playmakers",
+      "games": 15,
+      "wins": 7,
+      "losses": 8,
+      "points_for": 1585.0,
+      "ppg": 105.67,
+      "best_week": 137.5,
+      "worst_week": 68.5
+    },
+    {
+      "season": 2024,
+      "franchise_name": "Eddie & the Cruisers",
+      "games": 15,
+      "wins": 6,
+      "losses": 9,
+      "points_for": 1581.8,
+      "ppg": 105.45,
+      "best_week": 147.65,
+      "worst_week": 50.95
+    },
+    {
+      "season": 2011,
+      "franchise_name": "Robb's Raiders",
+      "games": 14,
+      "wins": 7,
+      "losses": 7,
+      "points_for": 1572.5,
+      "ppg": 112.32,
+      "best_week": 148.5,
+      "worst_week": 55.0
+    },
+    {
+      "season": 2023,
+      "franchise_name": "Jack of All Trades",
+      "games": 16,
+      "wins": 6,
+      "losses": 10,
+      "points_for": 1566.15,
+      "ppg": 97.88,
+      "best_week": 128.1,
+      "worst_week": 56.1
+    },
+    {
+      "season": 2020,
+      "franchise_name": "Miller's Genuine Draft",
+      "games": 14,
+      "wins": 8,
+      "losses": 6,
+      "points_for": 1551.45,
+      "ppg": 110.82,
+      "best_week": 177.7,
+      "worst_week": 60.15
+    },
+    {
+      "season": 2023,
+      "franchise_name": "Robb's Raiders",
+      "games": 14,
+      "wins": 4,
+      "losses": 10,
+      "points_for": 1545.95,
+      "ppg": 110.43,
+      "best_week": 156.0,
+      "worst_week": 81.8
+    },
+    {
+      "season": 2020,
+      "franchise_name": "Weichert's Warmongers",
+      "games": 14,
+      "wins": 6,
+      "losses": 8,
+      "points_for": 1534.55,
+      "ppg": 109.61,
+      "best_week": 139.95,
+      "worst_week": 73.65
+    },
+    {
+      "season": 2012,
+      "franchise_name": "Weichert's Warmongers",
+      "games": 14,
+      "wins": 8,
+      "losses": 6,
+      "points_for": 1534.0,
+      "ppg": 109.57,
+      "best_week": 135.5,
+      "worst_week": 76.5
+    },
+    {
+      "season": 2018,
+      "franchise_name": "Purple Haze",
+      "games": 14,
+      "wins": 7,
+      "losses": 7,
+      "points_for": 1533.6,
+      "ppg": 109.54,
+      "best_week": 162.65,
+      "worst_week": 72.7
+    },
+    {
+      "season": 2014,
+      "franchise_name": "Paradis' Playmakers",
+      "games": 16,
+      "wins": 6,
+      "losses": 10,
+      "points_for": 1532.5,
+      "ppg": 95.78,
+      "best_week": 157.5,
+      "worst_week": 50.0
+    },
+    {
+      "season": 2014,
+      "franchise_name": "Ben's Gods",
+      "games": 15,
+      "wins": 8,
+      "losses": 7,
+      "points_for": 1529.5,
+      "ppg": 101.97,
+      "best_week": 156.5,
+      "worst_week": 55.0
+    },
+    {
+      "season": 2017,
+      "franchise_name": "Purple Haze",
+      "games": 16,
+      "wins": 11,
+      "losses": 5,
+      "points_for": 1526.85,
+      "ppg": 95.43,
+      "best_week": 138.2,
+      "worst_week": 72.95
+    },
+    {
+      "season": 2010,
+      "franchise_name": "Eddie & the Cruisers",
+      "games": 14,
+      "wins": 6,
+      "losses": 8,
+      "points_for": 1525.5,
+      "ppg": 108.96,
+      "best_week": 163.5,
+      "worst_week": 90.5
+    },
+    {
+      "season": 2016,
+      "franchise_name": "MGD",
+      "games": 15,
+      "wins": 11,
+      "losses": 4,
+      "points_for": 1521.0,
+      "ppg": 101.4,
+      "best_week": 128.5,
+      "worst_week": 71.0
+    },
+    {
+      "season": 2024,
+      "franchise_name": "Robb's Raiders",
+      "games": 14,
+      "wins": 5,
+      "losses": 9,
+      "points_for": 1519.4,
+      "ppg": 108.53,
+      "best_week": 153.8,
+      "worst_week": 82.75
+    },
+    {
+      "season": 2025,
+      "franchise_name": "Robb's Raiders",
+      "games": 15,
+      "wins": 5,
+      "losses": 10,
+      "points_for": 1514.95,
+      "ppg": 101.0,
+      "best_week": 137.9,
+      "worst_week": 67.95
+    },
+    {
+      "season": 2017,
+      "franchise_name": "Weichert's Warmongers",
+      "games": 14,
+      "wins": 10,
+      "losses": 4,
+      "points_for": 1503.5,
+      "ppg": 107.39,
+      "best_week": 156.6,
+      "worst_week": 42.75
+    },
+    {
+      "season": 2021,
+      "franchise_name": "Miller's Genuine Draft",
+      "games": 15,
+      "wins": 7,
+      "losses": 8,
+      "points_for": 1494.4,
+      "ppg": 99.63,
+      "best_week": 140.15,
+      "worst_week": 60.4
+    },
+    {
+      "season": 2019,
+      "franchise_name": "Stu's Crew",
+      "games": 14,
+      "wins": 7,
+      "losses": 7,
+      "points_for": 1486.8,
+      "ppg": 106.2,
+      "best_week": 136.65,
+      "worst_week": 77.35
+    },
+    {
+      "season": 2014,
+      "franchise_name": "Purple Haze",
+      "games": 15,
+      "wins": 5,
+      "losses": 10,
+      "points_for": 1486.0,
+      "ppg": 99.07,
+      "best_week": 133.0,
+      "worst_week": 76.0
+    },
+    {
+      "season": 2020,
+      "franchise_name": "Neal's Neat Guys",
+      "games": 14,
+      "wins": 5,
+      "losses": 9,
+      "points_for": 1480.75,
+      "ppg": 105.77,
+      "best_week": 126.45,
+      "worst_week": 76.5
+    },
+    {
+      "season": 2010,
+      "franchise_name": "Stu's Crew",
+      "games": 14,
+      "wins": 6,
+      "losses": 8,
+      "points_for": 1474.5,
+      "ppg": 105.32,
+      "best_week": 145.5,
+      "worst_week": 76.5
+    },
+    {
+      "season": 2019,
+      "franchise_name": "Robb's Raiders",
+      "games": 14,
+      "wins": 8,
+      "losses": 6,
+      "points_for": 1470.5,
+      "ppg": 105.04,
+      "best_week": 154.4,
+      "worst_week": 64.9
+    },
+    {
+      "season": 2018,
+      "franchise_name": "Robb's Raiders",
+      "games": 14,
+      "wins": 5,
+      "losses": 9,
+      "points_for": 1454.6,
+      "ppg": 103.9,
+      "best_week": 151.95,
+      "worst_week": 79.1
+    },
+    {
+      "season": 2014,
+      "franchise_name": "Eddie & the Cruisers",
+      "games": 14,
+      "wins": 9,
+      "losses": 5,
+      "points_for": 1438.0,
+      "ppg": 102.71,
+      "best_week": 136.0,
+      "worst_week": 71.5
+    },
+    {
+      "season": 2021,
+      "franchise_name": "Weichert's Warmongers",
+      "games": 14,
+      "wins": 6,
+      "losses": 8,
+      "points_for": 1437.1,
+      "ppg": 102.65,
+      "best_week": 140.45,
+      "worst_week": 79.9
+    },
+    {
+      "season": 2015,
+      "franchise_name": "Paradis' Playmakers",
+      "games": 14,
+      "wins": 6,
+      "losses": 8,
+      "points_for": 1426.0,
+      "ppg": 101.86,
+      "best_week": 147.5,
+      "worst_week": 69.0
+    },
+    {
+      "season": 2014,
+      "franchise_name": "Italian Cavallini",
+      "games": 14,
+      "wins": 10,
+      "losses": 4,
+      "points_for": 1423.0,
+      "ppg": 101.64,
+      "best_week": 154.0,
+      "worst_week": 62.0
+    },
+    {
+      "season": 2013,
+      "franchise_name": "Eddie & the Cruisers",
+      "games": 14,
+      "wins": 6,
+      "losses": 8,
+      "points_for": 1422.5,
+      "ppg": 101.61,
+      "best_week": 130.0,
+      "worst_week": 74.5
+    },
+    {
+      "season": 2014,
+      "franchise_name": "SS Express",
+      "games": 14,
+      "wins": 10,
+      "losses": 4,
+      "points_for": 1420.0,
+      "ppg": 101.43,
+      "best_week": 133.5,
+      "worst_week": 53.0
+    },
+    {
+      "season": 2018,
+      "franchise_name": "Paradis' Playmakers",
+      "games": 14,
+      "wins": 5,
+      "losses": 9,
+      "points_for": 1405.5,
+      "ppg": 100.39,
+      "best_week": 131.95,
+      "worst_week": 65.8
+    },
+    {
+      "season": 2017,
+      "franchise_name": "Paradis' Playmakers",
+      "games": 14,
+      "wins": 6,
+      "losses": 8,
+      "points_for": 1404.75,
+      "ppg": 100.34,
+      "best_week": 145.95,
+      "worst_week": 68.6
+    },
+    {
+      "season": 2018,
+      "franchise_name": "Eddie & the Cruisers",
+      "games": 13,
+      "wins": 4,
+      "losses": 9,
+      "points_for": 1403.9,
+      "ppg": 107.99,
+      "best_week": 138.55,
+      "worst_week": 86.1
+    },
+    {
+      "season": 2014,
+      "franchise_name": "Weichert's Warmongers",
+      "games": 14,
+      "wins": 7,
+      "losses": 7,
+      "points_for": 1400.0,
+      "ppg": 100.0,
+      "best_week": 114.5,
+      "worst_week": 71.5
+    },
+    {
+      "season": 2019,
+      "franchise_name": "Eddie & the Cruisers",
+      "games": 13,
+      "wins": 3,
+      "losses": 10,
+      "points_for": 1398.5,
+      "ppg": 107.58,
+      "best_week": 157.95,
+      "worst_week": 69.4
+    },
+    {
+      "season": 2024,
+      "franchise_name": "Miller's Genuine Draft",
+      "games": 14,
+      "wins": 1,
+      "losses": 13,
+      "points_for": 1392.75,
+      "ppg": 99.48,
+      "best_week": 123.65,
+      "worst_week": 85.25
+    },
+    {
+      "season": 2013,
+      "franchise_name": "Purple Haze",
+      "games": 14,
+      "wins": 6,
+      "losses": 8,
+      "points_for": 1380.0,
+      "ppg": 98.57,
+      "best_week": 127.0,
+      "worst_week": 61.5
+    },
+    {
+      "season": 2019,
+      "franchise_name": "Purple Haze",
+      "games": 14,
+      "wins": 7,
+      "losses": 7,
+      "points_for": 1374.7,
+      "ppg": 98.19,
+      "best_week": 149.1,
+      "worst_week": 59.1
+    },
+    {
+      "season": 2023,
+      "franchise_name": "Weichert's Warmongers",
+      "games": 14,
+      "wins": 4,
+      "losses": 10,
+      "points_for": 1372.35,
+      "ppg": 98.03,
+      "best_week": 133.3,
+      "worst_week": 68.05
+    },
+    {
+      "season": 2015,
+      "franchise_name": "SS Express",
+      "games": 14,
+      "wins": 5,
+      "losses": 9,
+      "points_for": 1371.5,
+      "ppg": 97.96,
+      "best_week": 135.5,
+      "worst_week": 61.0
+    },
+    {
+      "season": 2017,
+      "franchise_name": "Italian Cavallini",
+      "games": 14,
+      "wins": 7,
+      "losses": 7,
+      "points_for": 1358.15,
+      "ppg": 97.01,
+      "best_week": 149.15,
+      "worst_week": 67.95
+    },
+    {
+      "season": 2017,
+      "franchise_name": "Ben's Gods",
+      "games": 14,
+      "wins": 8,
+      "losses": 6,
+      "points_for": 1349.85,
+      "ppg": 96.42,
+      "best_week": 118.65,
+      "worst_week": 72.95
+    },
+    {
+      "season": 2015,
+      "franchise_name": "Stu's Crew",
+      "games": 14,
+      "wins": 5,
+      "losses": 9,
+      "points_for": 1343.0,
+      "ppg": 95.93,
+      "best_week": 135.0,
+      "worst_week": 76.5
+    },
+    {
+      "season": 2012,
+      "franchise_name": "Eddie & the Cruisers",
+      "games": 13,
+      "wins": 6,
+      "losses": 7,
+      "points_for": 1342.5,
+      "ppg": 103.27,
+      "best_week": 139.0,
+      "worst_week": 69.5
+    },
+    {
+      "season": 2016,
+      "franchise_name": "Stu's Crew",
+      "games": 13,
+      "wins": 5,
+      "losses": 8,
+      "points_for": 1336.0,
+      "ppg": 102.77,
+      "best_week": 168.0,
+      "worst_week": 59.0
+    },
+    {
+      "season": 2021,
+      "franchise_name": "Italian Cavallini",
+      "games": 14,
+      "wins": 3,
+      "losses": 11,
+      "points_for": 1325.85,
+      "ppg": 94.7,
+      "best_week": 124.45,
+      "worst_week": 61.8
+    },
+    {
+      "season": 2016,
+      "franchise_name": "Robb's Raiders",
+      "games": 14,
+      "wins": 5,
+      "losses": 9,
+      "points_for": 1316.5,
+      "ppg": 94.04,
+      "best_week": 125.0,
+      "worst_week": 40.5
+    },
+    {
+      "season": 2014,
+      "franchise_name": "Robb's Raiders",
+      "games": 13,
+      "wins": 5,
+      "losses": 8,
+      "points_for": 1316.0,
+      "ppg": 101.23,
+      "best_week": 136.5,
+      "worst_week": 69.0
+    },
+    {
+      "season": 2019,
+      "franchise_name": "Ben's Gods",
+      "games": 14,
+      "wins": 6,
+      "losses": 8,
+      "points_for": 1315.6,
+      "ppg": 93.97,
+      "best_week": 160.3,
+      "worst_week": 50.75
+    },
+    {
+      "season": 2010,
+      "franchise_name": "Ben's Gods",
+      "games": 13,
+      "wins": 4,
+      "losses": 9,
+      "points_for": 1315.5,
+      "ppg": 101.19,
+      "best_week": 143.5,
+      "worst_week": 73.0
+    },
+    {
+      "season": 2022,
+      "franchise_name": "Eddie & the Cruisers",
+      "games": 14,
+      "wins": 3,
+      "losses": 11,
+      "points_for": 1312.5,
+      "ppg": 93.75,
+      "best_week": 157.05,
+      "worst_week": 57.35
+    },
+    {
+      "season": 2016,
+      "franchise_name": "Eddie & the Cruisers",
+      "games": 14,
+      "wins": 7,
+      "losses": 7,
+      "points_for": 1312.0,
+      "ppg": 93.71,
+      "best_week": 144.5,
+      "worst_week": 54.0
+    },
+    {
+      "season": 2011,
+      "franchise_name": "Paradis' Playmakers",
+      "games": 13,
+      "wins": 3,
+      "losses": 10,
+      "points_for": 1310.0,
+      "ppg": 100.77,
+      "best_week": 130.5,
+      "worst_week": 50.5
+    },
+    {
+      "season": 2016,
+      "franchise_name": "Ben's Gods",
+      "games": 14,
+      "wins": 5,
+      "losses": 9,
+      "points_for": 1303.0,
+      "ppg": 93.07,
+      "best_week": 121.0,
+      "worst_week": 51.5
+    },
+    {
+      "season": 2025,
+      "franchise_name": "Brandon Knows Ball",
+      "games": 14,
+      "wins": 0,
+      "losses": 14,
+      "points_for": 1290.8,
+      "ppg": 92.2,
+      "best_week": 116.75,
+      "worst_week": 54.8
+    },
+    {
+      "season": 2013,
+      "franchise_name": "Weichert's Warmongers",
+      "games": 14,
+      "wins": 6,
+      "losses": 8,
+      "points_for": 1281.5,
+      "ppg": 91.54,
+      "best_week": 120.0,
+      "worst_week": 59.5
+    },
+    {
+      "season": 2011,
+      "franchise_name": "Ben's Gods",
+      "games": 13,
+      "wins": 2,
+      "losses": 11,
+      "points_for": 1278.0,
+      "ppg": 98.31,
+      "best_week": 116.0,
+      "worst_week": 46.0
+    },
+    {
+      "season": 2020,
+      "franchise_name": "Eddie & the Cruisers",
+      "games": 14,
+      "wins": 4,
+      "losses": 10,
+      "points_for": 1274.2,
+      "ppg": 91.01,
+      "best_week": 129.95,
+      "worst_week": 56.05
+    },
+    {
+      "season": 2012,
+      "franchise_name": "Purple Haze",
+      "games": 13,
+      "wins": 3,
+      "losses": 10,
+      "points_for": 1274.0,
+      "ppg": 98.0,
+      "best_week": 122.0,
+      "worst_week": 69.0
+    },
+    {
+      "season": 2010,
+      "franchise_name": "SS Express",
+      "games": 13,
+      "wins": 5,
+      "losses": 8,
+      "points_for": 1270.0,
+      "ppg": 97.69,
+      "best_week": 133.5,
+      "worst_week": 57.5
+    },
+    {
+      "season": 2017,
+      "franchise_name": "SS Express",
+      "games": 15,
+      "wins": 5,
+      "losses": 10,
+      "points_for": 1258.3,
+      "ppg": 83.89,
+      "best_week": 108.4,
+      "worst_week": 54.5
+    },
+    {
+      "season": 2018,
+      "franchise_name": "Neal's Neat Guy's",
+      "games": 13,
+      "wins": 5,
+      "losses": 8,
+      "points_for": 1256.75,
+      "ppg": 96.67,
+      "best_week": 126.0,
+      "worst_week": 70.15
+    },
+    {
+      "season": 2013,
+      "franchise_name": "MGD",
+      "games": 14,
+      "wins": 6,
+      "losses": 8,
+      "points_for": 1240.0,
+      "ppg": 88.57,
+      "best_week": 113.0,
+      "worst_week": 66.0
+    },
+    {
+      "season": 2020,
+      "franchise_name": "Ben's Gods",
+      "games": 13,
+      "wins": 4,
+      "losses": 9,
+      "points_for": 1239.55,
+      "ppg": 95.35,
+      "best_week": 146.85,
+      "worst_week": 68.4
+    },
+    {
+      "season": 2013,
+      "franchise_name": "Stu's Crew",
+      "games": 13,
+      "wins": 5,
+      "losses": 8,
+      "points_for": 1232.0,
+      "ppg": 94.77,
+      "best_week": 133.5,
+      "worst_week": 61.5
+    },
+    {
+      "season": 2013,
+      "franchise_name": "Paradis' Playmakers",
+      "games": 13,
+      "wins": 5,
+      "losses": 8,
+      "points_for": 1229.5,
+      "ppg": 94.58,
+      "best_week": 158.5,
+      "worst_week": 48.0
+    },
+    {
+      "season": 2017,
+      "franchise_name": "Robb's Raiders",
+      "games": 13,
+      "wins": 5,
+      "losses": 8,
+      "points_for": 1217.9,
+      "ppg": 93.68,
+      "best_week": 146.8,
+      "worst_week": 57.9
+    },
+    {
+      "season": 2015,
+      "franchise_name": "Purple Haze",
+      "games": 13,
+      "wins": 4,
+      "losses": 9,
+      "points_for": 1188.0,
+      "ppg": 91.38,
+      "best_week": 120.5,
+      "worst_week": 68.5
+    },
+    {
+      "season": 2015,
+      "franchise_name": "Robb's Raiders",
+      "games": 14,
+      "wins": 5,
+      "losses": 9,
+      "points_for": 1187.0,
+      "ppg": 84.79,
+      "best_week": 118.0,
+      "worst_week": 49.0
+    },
+    {
+      "season": 2016,
+      "franchise_name": "Italian Cavallini",
+      "games": 14,
+      "wins": 7,
+      "losses": 7,
+      "points_for": 1179.5,
+      "ppg": 84.25,
+      "best_week": 112.0,
+      "worst_week": 56.5
+    },
+    {
+      "season": 2017,
+      "franchise_name": "MGD",
+      "games": 13,
+      "wins": 2,
+      "losses": 11,
+      "points_for": 1170.25,
+      "ppg": 90.02,
+      "best_week": 134.4,
+      "worst_week": 56.6
+    },
+    {
+      "season": 2020,
+      "franchise_name": "Purple Haze",
+      "games": 13,
+      "wins": 3,
+      "losses": 10,
+      "points_for": 1161.5,
+      "ppg": 89.35,
+      "best_week": 133.6,
+      "worst_week": 62.1
+    },
+    {
+      "season": 2019,
+      "franchise_name": "Miller's Genuine Draft",
+      "games": 13,
+      "wins": 3,
+      "losses": 10,
+      "points_for": 1147.35,
+      "ppg": 88.26,
+      "best_week": 115.95,
+      "worst_week": 57.85
+    },
+    {
+      "season": 2015,
+      "franchise_name": "MGD",
+      "games": 13,
+      "wins": 4,
+      "losses": 9,
+      "points_for": 1130.5,
+      "ppg": 86.96,
+      "best_week": 121.5,
+      "worst_week": 61.5
+    },
+    {
+      "season": 2016,
+      "franchise_name": "Purple Haze",
+      "games": 13,
+      "wins": 4,
+      "losses": 9,
+      "points_for": 1104.0,
+      "ppg": 84.92,
+      "best_week": 107.5,
+      "worst_week": 52.5
+    },
+    {
+      "season": 2014,
+      "franchise_name": "MGD",
+      "games": 13,
+      "wins": 3,
+      "losses": 10,
+      "points_for": 1071.0,
+      "ppg": 82.38,
+      "best_week": 115.0,
+      "worst_week": 54.5
+    }
+  ],
+  "head_to_head": [
+    {
+      "franchise_a": "Baber's Barristers",
+      "franchise_b": "Ben's Gods",
+      "a_wins": 2,
+      "b_wins": 2,
+      "total": 4
+    },
+    {
+      "franchise_a": "Baber's Barristers",
+      "franchise_b": "Eddie & the Cruisers",
+      "a_wins": 1,
+      "b_wins": 2,
+      "total": 3
+    },
+    {
+      "franchise_a": "Baber's Barristers",
+      "franchise_b": "Italian Cavallini",
+      "a_wins": 1,
+      "b_wins": 1,
+      "total": 2
+    },
+    {
+      "franchise_a": "Baber's Barristers",
+      "franchise_b": "Miller's Genuine Draft",
+      "a_wins": 3,
+      "b_wins": 1,
+      "total": 4
+    },
+    {
+      "franchise_a": "Baber's Barristers",
+      "franchise_b": "Paradis' Playmakers",
+      "a_wins": 1,
+      "b_wins": 1,
+      "total": 2
+    },
+    {
+      "franchise_a": "Baber's Barristers",
+      "franchise_b": "Purple Haze",
+      "a_wins": 2,
+      "b_wins": 1,
+      "total": 3
+    },
+    {
+      "franchise_a": "Baber's Barristers",
+      "franchise_b": "Robb's Raiders",
+      "a_wins": 2,
+      "b_wins": 1,
+      "total": 3
+    },
+    {
+      "franchise_a": "Baber's Barristers",
+      "franchise_b": "Stu's Crew",
+      "a_wins": 2,
+      "b_wins": 2,
+      "total": 4
+    },
+    {
+      "franchise_a": "Baber's Barristers",
+      "franchise_b": "Weichert's Warmongers",
+      "a_wins": 1,
+      "b_wins": 4,
+      "total": 5
+    },
+    {
+      "franchise_a": "Ben's Gods",
+      "franchise_b": "Brandon Knows Ball",
+      "a_wins": 2,
+      "b_wins": 0,
+      "total": 2
+    },
+    {
+      "franchise_a": "Ben's Gods",
+      "franchise_b": "Eddie & the Cruisers",
+      "a_wins": 10,
+      "b_wins": 15,
+      "total": 25
+    },
+    {
+      "franchise_a": "Ben's Gods",
+      "franchise_b": "Italian Cavallini",
+      "a_wins": 13,
+      "b_wins": 13,
+      "total": 26
+    },
+    {
+      "franchise_a": "Ben's Gods",
+      "franchise_b": "Jack of All Trades",
+      "a_wins": 1,
+      "b_wins": 2,
+      "total": 3
+    },
+    {
+      "franchise_a": "Ben's Gods",
+      "franchise_b": "MGD",
+      "a_wins": 8,
+      "b_wins": 6,
+      "total": 14
+    },
+    {
+      "franchise_a": "Ben's Gods",
+      "franchise_b": "Miller's Genuine Draft",
+      "a_wins": 6,
+      "b_wins": 10,
+      "total": 16
+    },
+    {
+      "franchise_a": "Ben's Gods",
+      "franchise_b": "Neal's Neat Guy's",
+      "a_wins": 3,
+      "b_wins": 1,
+      "total": 4
+    },
+    {
+      "franchise_a": "Ben's Gods",
+      "franchise_b": "Neal's Neat Guys",
+      "a_wins": 1,
+      "b_wins": 0,
+      "total": 1
+    },
+    {
+      "franchise_a": "Ben's Gods",
+      "franchise_b": "Paradis' Playmakers",
+      "a_wins": 12,
+      "b_wins": 17,
+      "total": 29
+    },
+    {
+      "franchise_a": "Ben's Gods",
+      "franchise_b": "Purple Haze",
+      "a_wins": 12,
+      "b_wins": 9,
+      "total": 21
+    },
+    {
+      "franchise_a": "Ben's Gods",
+      "franchise_b": "Robb's Raiders",
+      "a_wins": 9,
+      "b_wins": 12,
+      "total": 21
+    },
+    {
+      "franchise_a": "Ben's Gods",
+      "franchise_b": "SS Express",
+      "a_wins": 3,
+      "b_wins": 7,
+      "total": 10
+    },
+    {
+      "franchise_a": "Ben's Gods",
+      "franchise_b": "Stu's Crew",
+      "a_wins": 16,
+      "b_wins": 17,
+      "total": 33
+    },
+    {
+      "franchise_a": "Ben's Gods",
+      "franchise_b": "Weichert's Warmongers",
+      "a_wins": 16,
+      "b_wins": 12,
+      "total": 28
+    },
+    {
+      "franchise_a": "Brandon Knows Ball",
+      "franchise_b": "Italian Cavallini",
+      "a_wins": 2,
+      "b_wins": 1,
+      "total": 3
+    },
+    {
+      "franchise_a": "Brandon Knows Ball",
+      "franchise_b": "Miller's Genuine Draft",
+      "a_wins": 1,
+      "b_wins": 1,
+      "total": 2
+    },
+    {
+      "franchise_a": "Brandon Knows Ball",
+      "franchise_b": "Robb's Raiders",
+      "a_wins": 2,
+      "b_wins": 2,
+      "total": 4
+    },
+    {
+      "franchise_a": "Brandon Knows Ball",
+      "franchise_b": "Stu's Crew",
+      "a_wins": 2,
+      "b_wins": 2,
+      "total": 4
+    },
+    {
+      "franchise_a": "Brandon Knows Ball",
+      "franchise_b": "Weichert's Warmongers",
+      "a_wins": 1,
+      "b_wins": 4,
+      "total": 5
+    },
+    {
+      "franchise_a": "Brandon Knows Ball",
+      "franchise_b": "Eddie & the Cruisers",
+      "a_wins": 0,
+      "b_wins": 2,
+      "total": 2
+    },
+    {
+      "franchise_a": "Eddie & the Cruisers",
+      "franchise_b": "Italian Cavallini",
+      "a_wins": 9,
+      "b_wins": 18,
+      "total": 27
+    },
+    {
+      "franchise_a": "Eddie & the Cruisers",
+      "franchise_b": "MGD",
+      "a_wins": 5,
+      "b_wins": 4,
+      "total": 9
+    },
+    {
+      "franchise_a": "Eddie & the Cruisers",
+      "franchise_b": "Miller's Genuine Draft",
+      "a_wins": 4,
+      "b_wins": 10,
+      "total": 14
+    },
+    {
+      "franchise_a": "Eddie & the Cruisers",
+      "franchise_b": "Neal's Neat Guy's",
+      "a_wins": 1,
+      "b_wins": 1,
+      "total": 2
+    },
+    {
+      "franchise_a": "Eddie & the Cruisers",
+      "franchise_b": "Neal's Neat Guys",
+      "a_wins": 1,
+      "b_wins": 1,
+      "total": 2
+    },
+    {
+      "franchise_a": "Eddie & the Cruisers",
+      "franchise_b": "Paradis' Playmakers",
+      "a_wins": 10,
+      "b_wins": 18,
+      "total": 28
+    },
+    {
+      "franchise_a": "Eddie & the Cruisers",
+      "franchise_b": "Purple Haze",
+      "a_wins": 9,
+      "b_wins": 16,
+      "total": 25
+    },
+    {
+      "franchise_a": "Eddie & the Cruisers",
+      "franchise_b": "Robb's Raiders",
+      "a_wins": 12,
+      "b_wins": 16,
+      "total": 28
+    },
+    {
+      "franchise_a": "Eddie & the Cruisers",
+      "franchise_b": "SS Express",
+      "a_wins": 13,
+      "b_wins": 2,
+      "total": 15
+    },
+    {
+      "franchise_a": "Eddie & the Cruisers",
+      "franchise_b": "Stu's Crew",
+      "a_wins": 15,
+      "b_wins": 11,
+      "total": 26
+    },
+    {
+      "franchise_a": "Eddie & the Cruisers",
+      "franchise_b": "Weichert's Warmongers",
+      "a_wins": 11,
+      "b_wins": 14,
+      "total": 25
+    },
+    {
+      "franchise_a": "Italian Cavallini",
+      "franchise_b": "Jack of All Trades",
+      "a_wins": 3,
+      "b_wins": 0,
+      "total": 3
+    },
+    {
+      "franchise_a": "Italian Cavallini",
+      "franchise_b": "MGD",
+      "a_wins": 6,
+      "b_wins": 6,
+      "total": 12
+    },
+    {
+      "franchise_a": "Italian Cavallini",
+      "franchise_b": "Miller's Genuine Draft",
+      "a_wins": 8,
+      "b_wins": 3,
+      "total": 11
+    },
+    {
+      "franchise_a": "Italian Cavallini",
+      "franchise_b": "Neal's Neat Guy's",
+      "a_wins": 1,
+      "b_wins": 2,
+      "total": 3
+    },
+    {
+      "franchise_a": "Italian Cavallini",
+      "franchise_b": "Neal's Neat Guys",
+      "a_wins": 3,
+      "b_wins": 0,
+      "total": 3
+    },
+    {
+      "franchise_a": "Italian Cavallini",
+      "franchise_b": "Paradis' Playmakers",
+      "a_wins": 12,
+      "b_wins": 13,
+      "total": 25
+    },
+    {
+      "franchise_a": "Italian Cavallini",
+      "franchise_b": "Purple Haze",
+      "a_wins": 18,
+      "b_wins": 14,
+      "total": 32
+    },
+    {
+      "franchise_a": "Italian Cavallini",
+      "franchise_b": "Robb's Raiders",
+      "a_wins": 17,
+      "b_wins": 10,
+      "total": 27
+    },
+    {
+      "franchise_a": "Italian Cavallini",
+      "franchise_b": "SS Express",
+      "a_wins": 10,
+      "b_wins": 5,
+      "total": 15
+    },
+    {
+      "franchise_a": "Italian Cavallini",
+      "franchise_b": "Stu's Crew",
+      "a_wins": 13,
+      "b_wins": 15,
+      "total": 28
+    },
+    {
+      "franchise_a": "Italian Cavallini",
+      "franchise_b": "Weichert's Warmongers",
+      "a_wins": 13,
+      "b_wins": 8,
+      "total": 21
+    },
+    {
+      "franchise_a": "Eddie & the Cruisers",
+      "franchise_b": "Jack of All Trades",
+      "a_wins": 0,
+      "b_wins": 1,
+      "total": 1
+    },
+    {
+      "franchise_a": "Jack of All Trades",
+      "franchise_b": "Paradis' Playmakers",
+      "a_wins": 1,
+      "b_wins": 0,
+      "total": 1
+    },
+    {
+      "franchise_a": "Jack of All Trades",
+      "franchise_b": "Robb's Raiders",
+      "a_wins": 1,
+      "b_wins": 0,
+      "total": 1
+    },
+    {
+      "franchise_a": "Jack of All Trades",
+      "franchise_b": "Weichert's Warmongers",
+      "a_wins": 1,
+      "b_wins": 1,
+      "total": 2
+    },
+    {
+      "franchise_a": "MGD",
+      "franchise_b": "Paradis' Playmakers",
+      "a_wins": 5,
+      "b_wins": 8,
+      "total": 13
+    },
+    {
+      "franchise_a": "MGD",
+      "franchise_b": "Purple Haze",
+      "a_wins": 7,
+      "b_wins": 7,
+      "total": 14
+    },
+    {
+      "franchise_a": "MGD",
+      "franchise_b": "Robb's Raiders",
+      "a_wins": 3,
+      "b_wins": 8,
+      "total": 11
+    },
+    {
+      "franchise_a": "MGD",
+      "franchise_b": "SS Express",
+      "a_wins": 3,
+      "b_wins": 8,
+      "total": 11
+    },
+    {
+      "franchise_a": "MGD",
+      "franchise_b": "Stu's Crew",
+      "a_wins": 7,
+      "b_wins": 7,
+      "total": 14
+    },
+    {
+      "franchise_a": "MGD",
+      "franchise_b": "Weichert's Warmongers",
+      "a_wins": 8,
+      "b_wins": 7,
+      "total": 15
+    },
+    {
+      "franchise_a": "Jack of All Trades",
+      "franchise_b": "Miller's Genuine Draft",
+      "a_wins": 0,
+      "b_wins": 1,
+      "total": 1
+    },
+    {
+      "franchise_a": "Miller's Genuine Draft",
+      "franchise_b": "Neal's Neat Guy's",
+      "a_wins": 1,
+      "b_wins": 2,
+      "total": 3
+    },
+    {
+      "franchise_a": "Miller's Genuine Draft",
+      "franchise_b": "Neal's Neat Guys",
+      "a_wins": 1,
+      "b_wins": 0,
+      "total": 1
+    },
+    {
+      "franchise_a": "Miller's Genuine Draft",
+      "franchise_b": "Paradis' Playmakers",
+      "a_wins": 6,
+      "b_wins": 10,
+      "total": 16
+    },
+    {
+      "franchise_a": "Miller's Genuine Draft",
+      "franchise_b": "Purple Haze",
+      "a_wins": 6,
+      "b_wins": 6,
+      "total": 12
+    },
+    {
+      "franchise_a": "Miller's Genuine Draft",
+      "franchise_b": "Robb's Raiders",
+      "a_wins": 6,
+      "b_wins": 5,
+      "total": 11
+    },
+    {
+      "franchise_a": "Miller's Genuine Draft",
+      "franchise_b": "Stu's Crew",
+      "a_wins": 7,
+      "b_wins": 7,
+      "total": 14
+    },
+    {
+      "franchise_a": "Miller's Genuine Draft",
+      "franchise_b": "Weichert's Warmongers",
+      "a_wins": 9,
+      "b_wins": 6,
+      "total": 15
+    },
+    {
+      "franchise_a": "Neal's Neat Guy's",
+      "franchise_b": "Paradis' Playmakers",
+      "a_wins": 1,
+      "b_wins": 3,
+      "total": 4
+    },
+    {
+      "franchise_a": "Neal's Neat Guy's",
+      "franchise_b": "Purple Haze",
+      "a_wins": 3,
+      "b_wins": 2,
+      "total": 5
+    },
+    {
+      "franchise_a": "Neal's Neat Guy's",
+      "franchise_b": "Robb's Raiders",
+      "a_wins": 1,
+      "b_wins": 1,
+      "total": 2
+    },
+    {
+      "franchise_a": "Neal's Neat Guy's",
+      "franchise_b": "Weichert's Warmongers",
+      "a_wins": 2,
+      "b_wins": 0,
+      "total": 2
+    },
+    {
+      "franchise_a": "Neal's Neat Guys",
+      "franchise_b": "Purple Haze",
+      "a_wins": 2,
+      "b_wins": 0,
+      "total": 2
+    },
+    {
+      "franchise_a": "Neal's Neat Guys",
+      "franchise_b": "Robb's Raiders",
+      "a_wins": 1,
+      "b_wins": 1,
+      "total": 2
+    },
+    {
+      "franchise_a": "Neal's Neat Guys",
+      "franchise_b": "Stu's Crew",
+      "a_wins": 1,
+      "b_wins": 0,
+      "total": 1
+    },
+    {
+      "franchise_a": "Brandon Knows Ball",
+      "franchise_b": "Paradis' Playmakers",
+      "a_wins": 0,
+      "b_wins": 3,
+      "total": 3
+    },
+    {
+      "franchise_a": "Neal's Neat Guys",
+      "franchise_b": "Paradis' Playmakers",
+      "a_wins": 0,
+      "b_wins": 1,
+      "total": 1
+    },
+    {
+      "franchise_a": "Paradis' Playmakers",
+      "franchise_b": "Purple Haze",
+      "a_wins": 14,
+      "b_wins": 12,
+      "total": 26
+    },
+    {
+      "franchise_a": "Paradis' Playmakers",
+      "franchise_b": "Robb's Raiders",
+      "a_wins": 13,
+      "b_wins": 14,
+      "total": 27
+    },
+    {
+      "franchise_a": "Paradis' Playmakers",
+      "franchise_b": "SS Express",
+      "a_wins": 6,
+      "b_wins": 9,
+      "total": 15
+    },
+    {
+      "franchise_a": "Paradis' Playmakers",
+      "franchise_b": "Stu's Crew",
+      "a_wins": 11,
+      "b_wins": 18,
+      "total": 29
+    },
+    {
+      "franchise_a": "Paradis' Playmakers",
+      "franchise_b": "Weichert's Warmongers",
+      "a_wins": 13,
+      "b_wins": 16,
+      "total": 29
+    },
+    {
+      "franchise_a": "Brandon Knows Ball",
+      "franchise_b": "Purple Haze",
+      "a_wins": 0,
+      "b_wins": 4,
+      "total": 4
+    },
+    {
+      "franchise_a": "Jack of All Trades",
+      "franchise_b": "Purple Haze",
+      "a_wins": 0,
+      "b_wins": 2,
+      "total": 2
+    },
+    {
+      "franchise_a": "Purple Haze",
+      "franchise_b": "Robb's Raiders",
+      "a_wins": 9,
+      "b_wins": 18,
+      "total": 27
+    },
+    {
+      "franchise_a": "Purple Haze",
+      "franchise_b": "SS Express",
+      "a_wins": 5,
+      "b_wins": 10,
+      "total": 15
+    },
+    {
+      "franchise_a": "Purple Haze",
+      "franchise_b": "Stu's Crew",
+      "a_wins": 9,
+      "b_wins": 12,
+      "total": 21
+    },
+    {
+      "franchise_a": "Purple Haze",
+      "franchise_b": "Weichert's Warmongers",
+      "a_wins": 13,
+      "b_wins": 12,
+      "total": 25
+    },
+    {
+      "franchise_a": "Robb's Raiders",
+      "franchise_b": "SS Express",
+      "a_wins": 3,
+      "b_wins": 12,
+      "total": 15
+    },
+    {
+      "franchise_a": "Robb's Raiders",
+      "franchise_b": "Stu's Crew",
+      "a_wins": 8,
+      "b_wins": 15,
+      "total": 23
+    },
+    {
+      "franchise_a": "Robb's Raiders",
+      "franchise_b": "Weichert's Warmongers",
+      "a_wins": 7,
+      "b_wins": 21,
+      "total": 28
+    },
+    {
+      "franchise_a": "SS Express",
+      "franchise_b": "Stu's Crew",
+      "a_wins": 6,
+      "b_wins": 3,
+      "total": 9
+    },
+    {
+      "franchise_a": "SS Express",
+      "franchise_b": "Weichert's Warmongers",
+      "a_wins": 4,
+      "b_wins": 8,
+      "total": 12
+    },
+    {
+      "franchise_a": "Jack of All Trades",
+      "franchise_b": "Stu's Crew",
+      "a_wins": 0,
+      "b_wins": 2,
+      "total": 2
+    },
+    {
+      "franchise_a": "Neal's Neat Guy's",
+      "franchise_b": "Stu's Crew",
+      "a_wins": 0,
+      "b_wins": 3,
+      "total": 3
+    },
+    {
+      "franchise_a": "Stu's Crew",
+      "franchise_b": "Weichert's Warmongers",
+      "a_wins": 10,
+      "b_wins": 17,
+      "total": 27
+    },
+    {
+      "franchise_a": "Neal's Neat Guys",
+      "franchise_b": "Weichert's Warmongers",
+      "a_wins": 0,
+      "b_wins": 1,
+      "total": 1
+    }
+  ],
+  "top_faab_bids": [
+    {
+      "season": 2021,
+      "bid_amount": 61.51,
+      "franchise_name": "Eddie & the Cruisers",
+      "player_name": "Mitchell, Elijah",
+      "position": "RB"
+    },
+    {
+      "season": 2024,
+      "bid_amount": 60.24,
+      "franchise_name": "Robb's Raiders",
+      "player_name": "Rodgers, Aaron",
+      "position": "QB"
+    },
+    {
+      "season": 2023,
+      "bid_amount": 59.99,
+      "franchise_name": "Stu's Crew",
+      "player_name": "Mason, Jordan",
+      "position": "RB"
+    },
+    {
+      "season": 2024,
+      "bid_amount": 53.75,
+      "franchise_name": "Purple Haze",
+      "player_name": "Guerendo, Isaac",
+      "position": "RB"
+    },
+    {
+      "season": 2024,
+      "bid_amount": 52.78,
+      "franchise_name": "Italian Cavallini",
+      "player_name": "Wicks, Dontayvion",
+      "position": "WR"
+    },
+    {
+      "season": 2024,
+      "bid_amount": 51.89,
+      "franchise_name": "Miller's Genuine Draft",
+      "player_name": "Nix, Bo",
+      "position": "QB"
+    },
+    {
+      "season": 2023,
+      "bid_amount": 51.0,
+      "franchise_name": "Purple Haze",
+      "player_name": "Allgeier, Tyler",
+      "position": "RB"
+    },
+    {
+      "season": 2023,
+      "bid_amount": 50.91,
+      "franchise_name": "Miller's Genuine Draft",
+      "player_name": "Mitchell, Keaton",
+      "position": "RB"
+    },
+    {
+      "season": 2025,
+      "bid_amount": 50.0,
+      "franchise_name": "Robb's Raiders",
+      "player_name": "Vidal, Kimani",
+      "position": "RB"
+    },
+    {
+      "season": 2024,
+      "bid_amount": 47.14,
+      "franchise_name": "Ben's Gods",
+      "player_name": "McMillan, Jalen",
+      "position": "WR"
+    },
+    {
+      "season": 2022,
+      "bid_amount": 43.33,
+      "franchise_name": "Weichert's Warmongers",
+      "player_name": "Aiyuk, Brandon",
+      "position": "WR"
+    },
+    {
+      "season": 2024,
+      "bid_amount": 42.22,
+      "franchise_name": "Eddie & the Cruisers",
+      "player_name": "Hopkins, DeAndre",
+      "position": "WR"
+    },
+    {
+      "season": 2025,
+      "bid_amount": 41.41,
+      "franchise_name": "Miller's Genuine Draft",
+      "player_name": "Mooney, Darnell",
+      "position": "WR"
+    },
+    {
+      "season": 2022,
+      "bid_amount": 41.21,
+      "franchise_name": "Italian Cavallini",
+      "player_name": "Williams, Jamaal",
+      "position": "RB"
+    },
+    {
+      "season": 2022,
+      "bid_amount": 41.0,
+      "franchise_name": "Purple Haze",
+      "player_name": "Hill, Taysom",
+      "position": "TE"
+    },
+    {
+      "season": 2024,
+      "bid_amount": 41.0,
+      "franchise_name": "Purple Haze",
+      "player_name": "Williams, Javonte",
+      "position": "RB"
+    },
+    {
+      "season": 2024,
+      "bid_amount": 40.99,
+      "franchise_name": "Paradis' Playmakers",
+      "player_name": "Hunt, Kareem",
+      "position": "RB"
+    },
+    {
+      "season": 2025,
+      "bid_amount": 40.01,
+      "franchise_name": "Robb's Raiders",
+      "player_name": "Purdy, Brock",
+      "position": "QB"
+    },
+    {
+      "season": 2023,
+      "bid_amount": 39.97,
+      "franchise_name": "Paradis' Playmakers",
+      "player_name": "Demercado, Emari",
+      "position": "RB"
+    },
+    {
+      "season": 2022,
+      "bid_amount": 38.07,
+      "franchise_name": "Eddie & the Cruisers",
+      "player_name": "Fant, Noah",
+      "position": "TE"
+    },
+    {
+      "season": 2022,
+      "bid_amount": 36.01,
+      "franchise_name": "Stu's Crew",
+      "player_name": "Watson, Christian",
+      "position": "WR"
+    },
+    {
+      "season": 2022,
+      "bid_amount": 36.01,
+      "franchise_name": "Stu's Crew",
+      "player_name": "Wilson, Garrett",
+      "position": "WR"
+    },
+    {
+      "season": 2024,
+      "bid_amount": 35.05,
+      "franchise_name": "Weichert's Warmongers",
+      "player_name": "Tillman, Cedric",
+      "position": "WR"
+    },
+    {
+      "season": 2022,
+      "bid_amount": 35.01,
+      "franchise_name": "Paradis' Playmakers",
+      "player_name": "Williams, Kyren",
+      "position": "RB"
+    },
+    {
+      "season": 2024,
+      "bid_amount": 35.01,
+      "franchise_name": "Stu's Crew",
+      "player_name": "Jennings, Jauan",
+      "position": "WR"
+    }
+  ],
+  "best_bench_scores": [
+    {
+      "season": 2012,
+      "week": 11,
+      "bench_score": 76.0,
+      "franchise_name": "MGD",
+      "player_name": "Schaub, Matt",
+      "position": "QB"
+    },
+    {
+      "season": 2014,
+      "week": 8,
+      "bench_score": 62.0,
+      "franchise_name": "Weichert's Warmongers",
+      "player_name": "Roethlisberger, Ben",
+      "position": "QB"
+    },
+    {
+      "season": 2010,
+      "week": 7,
+      "bench_score": 59.0,
+      "franchise_name": "Purple Haze",
+      "player_name": "Palmer, Carson",
+      "position": "QB"
+    },
+    {
+      "season": 2010,
+      "week": 10,
+      "bench_score": 59.0,
+      "franchise_name": "Purple Haze",
+      "player_name": "Brady, Tom",
+      "position": "QB"
+    },
+    {
+      "season": 2012,
+      "week": 12,
+      "bench_score": 59.0,
+      "franchise_name": "Stu's Crew",
+      "player_name": "Newton, Cam",
+      "position": "QB"
+    },
+    {
+      "season": 2015,
+      "week": 8,
+      "bench_score": 59.0,
+      "franchise_name": "Purple Haze",
+      "player_name": "Brees, Drew",
+      "position": "QB"
+    },
+    {
+      "season": 2011,
+      "week": 3,
+      "bench_score": 58.0,
+      "franchise_name": "Weichert's Warmongers",
+      "player_name": "Flacco, Joe",
+      "position": "QB"
+    },
+    {
+      "season": 2012,
+      "week": 13,
+      "bench_score": 57.0,
+      "franchise_name": "Paradis' Playmakers",
+      "player_name": "Luck, Andrew",
+      "position": "QB"
+    },
+    {
+      "season": 2012,
+      "week": 14,
+      "bench_score": 57.0,
+      "franchise_name": "Stu's Crew",
+      "player_name": "Newton, Cam",
+      "position": "QB"
+    },
+    {
+      "season": 2011,
+      "week": 14,
+      "bench_score": 56.0,
+      "franchise_name": "Weichert's Warmongers",
+      "player_name": "Romo, Tony",
+      "position": "QB"
+    },
+    {
+      "season": 2022,
+      "week": 2,
+      "bench_score": 55.55,
+      "franchise_name": "Purple Haze",
+      "player_name": "Tagovailoa, Tua",
+      "position": "QB"
+    },
+    {
+      "season": 2012,
+      "week": 9,
+      "bench_score": 55.0,
+      "franchise_name": "Paradis' Playmakers",
+      "player_name": "Luck, Andrew",
+      "position": "QB"
+    },
+    {
+      "season": 2012,
+      "week": 10,
+      "bench_score": 55.0,
+      "franchise_name": "Italian Cavallini",
+      "player_name": "Flacco, Joe",
+      "position": "QB"
+    },
+    {
+      "season": 2012,
+      "week": 12,
+      "bench_score": 54.0,
+      "franchise_name": "Stu's Crew",
+      "player_name": "Griffin III, Robert",
+      "position": "QB"
+    },
+    {
+      "season": 2013,
+      "week": 5,
+      "bench_score": 54.0,
+      "franchise_name": "MGD",
+      "player_name": "Romo, Tony",
+      "position": "QB"
+    },
+    {
+      "season": 2018,
+      "week": 4,
+      "bench_score": 53.95,
+      "franchise_name": "Purple Haze",
+      "player_name": "Goff, Jared",
+      "position": "QB"
+    },
+    {
+      "season": 2018,
+      "week": 3,
+      "bench_score": 53.9,
+      "franchise_name": "Stu's Crew",
+      "player_name": "Ryan, Matt",
+      "position": "QB"
+    },
+    {
+      "season": 2019,
+      "week": 14,
+      "bench_score": 53.55,
+      "franchise_name": "Purple Haze",
+      "player_name": "Brees, Drew",
+      "position": "QB"
+    },
+    {
+      "season": 2012,
+      "week": 3,
+      "bench_score": 53.0,
+      "franchise_name": "Italian Cavallini",
+      "player_name": "Flacco, Joe",
+      "position": "QB"
+    },
+    {
+      "season": 2012,
+      "week": 5,
+      "bench_score": 53.0,
+      "franchise_name": "Paradis' Playmakers",
+      "player_name": "Luck, Andrew",
+      "position": "QB"
+    }
+  ]
 }

@@ -48,6 +48,7 @@ export default async function handler(req, res) {
   if (req.method === "OPTIONS") return res.status(200).end();
   if (req.method !== "POST") return res.status(405).json({ error: "Method not allowed" });
 
+  console.log("ENV CHECK:", JSON.stringify({ hasKey: !!process.env.ANTHROPIC_API_KEY, keyPrefix: (process.env.ANTHROPIC_API_KEY || "").slice(0,7) }));
   const { question } = req.body || {};
   if (!question?.trim()) return res.status(400).json({ error: "No question provided" });
   if (question.length > 500) return res.status(400).json({ error: "Question too long" });

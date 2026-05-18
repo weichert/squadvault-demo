@@ -124,3 +124,4 @@ export default async function handler(req, res) {
     return res.status(500).json({ error: "Engine error. The vault is temporarily unavailable." });
   }
 }
+

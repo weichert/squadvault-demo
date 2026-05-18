@@ -32,7 +32,7 @@ function buildContext(q) {
     parts.push(`WORST SEASONS: ${JSON.stringify(facts.worst_seasons)}`);
 
   // Top player game scores
-  if (/most points|highest score|best week|greatest game|best player|best fantasy|most ever scored|single game|single week/.test(lq))
+  if (/most point|highest score|best week|greatest game|best player|best fantasy|most ever|single game|single week|points in a|score ever|game ever/.test(lq))
     parts.push(`TOP PLAYER GAME SCORES: ${JSON.stringify(facts.top_player_games)}`);
 
   // Closest games

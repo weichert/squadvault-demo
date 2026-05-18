@@ -42,6 +42,9 @@ function buildContext(q) {
   if (has('winning percentage','win percentage','win pct','all-time record','best record','most wins all','most season points','most points in a season','most points in a single season','scored the most points in a single','which team scored'))
     sections.push(`FRANCHISE SEASON SUMMARIES (top 40 by scoring): ${JSON.stringify(facts.franchise_seasons.slice(0,40))}`);
 
+  if (has('winning percentage','win percentage','win pct','all-time winning','best all-time','all time record','all-time wins','historically best','most successful'))
+    sections.push(`ALL-TIME FRANCHISE RECORDS: ${JSON.stringify(facts.all_time_records)}`);
+
   if (has('how did','do in 20','season record','season summary','ppg','per game','points for','best season','worst season for'))
     sections.push(`FRANCHISE SEASON SUMMARIES: ${JSON.stringify(facts.franchise_seasons.slice(0,40))}`);
 

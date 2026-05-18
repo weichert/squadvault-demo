@@ -3983,5 +3983,119 @@
       "winner_name": "Robb's Raiders",
       "loser_name": "Italian Cavallini"
     }
+  ],
+  "all_time_records": [
+    {
+      "franchise_name": "Italian Cavallini",
+      "all_time_wins": 137,
+      "all_time_losses": 101,
+      "all_time_games": 238,
+      "win_pct": 0.576
+    },
+    {
+      "franchise_name": "Weichert's Warmongers",
+      "all_time_wins": 131,
+      "all_time_losses": 109,
+      "all_time_games": 240,
+      "win_pct": 0.546
+    },
+    {
+      "franchise_name": "SS Express",
+      "all_time_wins": 63,
+      "all_time_losses": 54,
+      "all_time_games": 117,
+      "win_pct": 0.538
+    },
+    {
+      "franchise_name": "Paradis' Playmakers",
+      "all_time_wins": 131,
+      "all_time_losses": 117,
+      "all_time_games": 248,
+      "win_pct": 0.528
+    },
+    {
+      "franchise_name": "Stu's Crew",
+      "all_time_wins": 124,
+      "all_time_losses": 114,
+      "all_time_games": 238,
+      "win_pct": 0.521
+    },
+    {
+      "franchise_name": "Miller's Genuine Draft",
+      "all_time_wins": 62,
+      "all_time_losses": 58,
+      "all_time_games": 120,
+      "win_pct": 0.517
+    },
+    {
+      "franchise_name": "Baber's Barristers",
+      "all_time_wins": 15,
+      "all_time_losses": 15,
+      "all_time_games": 30,
+      "win_pct": 0.5
+    },
+    {
+      "franchise_name": "Ben's Gods",
+      "all_time_wins": 114,
+      "all_time_losses": 123,
+      "all_time_games": 237,
+      "win_pct": 0.481
+    },
+    {
+      "franchise_name": "Eddie & the Cruisers",
+      "all_time_wins": 109,
+      "all_time_losses": 123,
+      "all_time_games": 232,
+      "win_pct": 0.47
+    },
+    {
+      "franchise_name": "Purple Haze",
+      "all_time_wins": 109,
+      "all_time_losses": 125,
+      "all_time_games": 234,
+      "win_pct": 0.466
+    },
+    {
+      "franchise_name": "Neal's Neat Guy's",
+      "all_time_wins": 13,
+      "all_time_losses": 15,
+      "all_time_games": 28,
+      "win_pct": 0.464
+    },
+    {
+      "franchise_name": "Robb's Raiders",
+      "all_time_wins": 106,
+      "all_time_losses": 124,
+      "all_time_games": 230,
+      "win_pct": 0.461
+    },
+    {
+      "franchise_name": "MGD",
+      "all_time_wins": 49,
+      "all_time_losses": 64,
+      "all_time_games": 113,
+      "win_pct": 0.434
+    },
+    {
+      "franchise_name": "Jack of All Trades",
+      "all_time_wins": 6,
+      "all_time_losses": 10,
+      "all_time_games": 16,
+      "win_pct": 0.375
+    },
+    {
+      "franchise_name": "Neal's Neat Guys",
+      "all_time_wins": 5,
+      "all_time_losses": 9,
+      "all_time_games": 14,
+      "win_pct": 0.357
+    },
+    {
+      "franchise_name": "Brandon Knows Ball",
+      "all_time_wins": 8,
+      "all_time_losses": 21,
+      "all_time_games": 29,
+      "win_pct": 0.276
+    }
   ]
 }

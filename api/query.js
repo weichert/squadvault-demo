@@ -3,7 +3,7 @@ import { createRequire } from "module";
 const require = createRequire(import.meta.url);
 const facts = require("../src/data/facts.json");
 
-const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
+
 
 const SYSTEM_PROMPT = `You are the SquadVault record engine. PFL Buddies fantasy football, 16 seasons (2010-2025), founded 1983.
 
@@ -48,11 +48,12 @@ export default async function handler(req, res) {
   if (req.method === "OPTIONS") return res.status(200).end();
   if (req.method !== "POST") return res.status(405).json({ error: "Method not allowed" });
 
-  console.log("ENV CHECK:", JSON.stringify({ hasKey: !!process.env.ANTHROPIC_API_KEY, keyPrefix: (process.env.ANTHROPIC_API_KEY || "").slice(0,7) }));
   const { question } = req.body || {};
   if (!question?.trim()) return res.status(400).json({ error: "No question provided" });
   if (question.length > 500) return res.status(400).json({ error: "Question too long" });
 
+  const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
+  console.log("KEY CHECK:", !!process.env.ANTHROPIC_API_KEY, (process.env.ANTHROPIC_API_KEY||"").slice(0,8));
   try {
     const context = buildContext(question);
     const message = await client.messages.create({

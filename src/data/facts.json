@@ -1,0 +1,622 @@
+{
+  "meta": {
+    "league": "PFL Buddies",
+    "founded": 1983,
+    "digital_era_start": 2010,
+    "digital_era_end": 2025,
+    "digital_seasons": 16,
+    "total_matchups": 1182,
+    "total_player_scores": 32649,
+    "approved_recaps": 18,
+    "tests_passing": 2308,
+    "source": "Canonical SQLite event ledger + archive markdown. All facts verified."
+  },
+  "championships": {
+    "by_season": [
+      {
+        "season": 2010,
+        "champion": "Robb's Raiders",
+        "runner_up": "MGD",
+        "week": 16,
+        "champion_score": 129.5,
+        "runner_up_score": 97.5
+      },
+      {
+        "season": 2011,
+        "champion": "Italian Cavallini",
+        "runner_up": "Purple Haze",
+        "week": 16,
+        "champion_score": 137.0,
+        "runner_up_score": 92.0
+      },
+      {
+        "season": 2012,
+        "champion": "Paradis' Playmakers",
+        "runner_up": "Ben's Gods",
+        "week": 16,
+        "champion_score": 142.0,
+        "runner_up_score": 105.5
+      },
+      {
+        "season": 2013,
+        "champion": "Italian Cavallini",
+        "runner_up": "SS Express",
+        "week": 16,
+        "champion_score": 95.0,
+        "runner_up_score": 94.0
+      },
+      {
+        "season": 2014,
+        "champion": "Stu's Crew",
+        "runner_up": "Paradis' Playmakers",
+        "week": 16,
+        "champion_score": 62.5,
+        "runner_up_score": 50.0
+      },
+      {
+        "season": 2015,
+        "champion": "Eddie & the Cruisers",
+        "runner_up": "Ben's Gods",
+        "week": 16,
+        "champion_score": 118.0,
+        "runner_up_score": 92.5
+      },
+      {
+        "season": 2016,
+        "champion": "SS Express",
+        "runner_up": "Weichert's Warmongers",
+        "week": 16,
+        "champion_score": 107.0,
+        "runner_up_score": 100.0
+      },
+      {
+        "season": 2017,
+        "champion": "Purple Haze",
+        "runner_up": "Eddie & the Cruisers",
+        "week": 16,
+        "champion_score": 72.95,
+        "runner_up_score": 63.35
+      },
+      {
+        "season": 2018,
+        "champion": "Stu's Crew",
+        "runner_up": "Miller's Genuine Draft",
+        "week": 16,
+        "champion_score": 133.65,
+        "runner_up_score": 108.45
+      },
+      {
+        "season": 2019,
+        "champion": "Paradis' Playmakers",
+        "runner_up": "Weichert's Warmongers",
+        "week": 16,
+        "champion_score": 109.85,
+        "runner_up_score": 108.4
+      },
+      {
+        "season": 2020,
+        "champion": "Paradis' Playmakers",
+        "runner_up": "Robb's Raiders",
+        "week": 16,
+        "champion_score": 140.3,
+        "runner_up_score": 82.65
+      },
+      {
+        "season": 2021,
+        "champion": "Stu's Crew",
+        "runner_up": "Paradis' Playmakers",
+        "week": 18,
+        "champion_score": 132.75,
+        "runner_up_score": 107.8
+      },
+      {
+        "season": 2022,
+        "champion": "Miller's Genuine Draft",
+        "runner_up": "Ben's Gods",
+        "week": 18,
+        "champion_score": 114.6,
+        "runner_up_score": 108.35
+      },
+      {
+        "season": 2023,
+        "champion": "Italian Cavallini",
+        "runner_up": "Eddie & the Cruisers",
+        "week": 18,
+        "champion_score": 126.35,
+        "runner_up_score": 102.3
+      },
+      {
+        "season": 2024,
+        "champion": "Weichert's Warmongers",
+        "runner_up": "Paradis' Playmakers",
+        "week": 18,
+        "champion_score": 148.9,
+        "runner_up_score": 135.8
+      },
+      {
+        "season": 2025,
+        "champion": "Paradis' Playmakers",
+        "runner_up": "Weichert's Warmongers",
+        "week": 18,
+        "champion_score": 139.4,
+        "runner_up_score": 118.65
+      }
+    ],
+    "titles_by_franchise": [
+      {
+        "franchise": "Paradis' Playmakers",
+        "titles": 4,
+        "seasons": [
+          2012,
+          2019,
+          2020,
+          2025
+        ]
+      },
+      {
+        "franchise": "Italian Cavallini",
+        "titles": 3,
+        "seasons": [
+          2011,
+          2013,
+          2023
+        ]
+      },
+      {
+        "franchise": "Stu's Crew",
+        "titles": 3,
+        "seasons": [
+          2014,
+          2018,
+          2021
+        ]
+      },
+      {
+        "franchise": "Eddie & the Cruisers",
+        "titles": 1,
+        "seasons": [
+          2015
+        ]
+      },
+      {
+        "franchise": "Miller's Genuine Draft",
+        "titles": 1,
+        "seasons": [
+          2022
+        ]
+      },
+      {
+        "franchise": "Purple Haze",
+        "titles": 1,
+        "seasons": [
+          2017
+        ]
+      },
+      {
+        "franchise": "Robb's Raiders",
+        "titles": 1,
+        "seasons": [
+          2010
+        ]
+      },
+      {
+        "franchise": "SS Express",
+        "titles": 1,
+        "seasons": [
+          2016
+        ]
+      },
+      {
+        "franchise": "Weichert's Warmongers",
+        "titles": 1,
+        "seasons": [
+          2024
+        ]
+      }
+    ],
+    "bridesmaids": [
+      {
+        "franchise": "Ben's Gods",
+        "runner_up_finishes": 3,
+        "seasons": [
+          2012,
+          2015,
+          2022
+        ],
+        "titles": 0
+      },
+      {
+        "franchise": "Weichert's Warmongers",
+        "runner_up_finishes": 3,
+        "seasons": [
+          2016,
+          2019,
+          2025
+        ],
+        "titles": 1
+      },
+      {
+        "franchise": "Paradis' Playmakers",
+        "runner_up_finishes": 3,
+        "seasons": [
+          2014,
+          2021,
+          2024
+        ],
+        "titles": 4
+      },
+      {
+        "franchise": "Eddie & the Cruisers",
+        "runner_up_finishes": 2,
+        "seasons": [
+          2017,
+          2023
+        ],
+        "titles": 1
+      },
+      {
+        "franchise": "Miller's Genuine Draft",
+        "runner_up_finishes": 2,
+        "seasons": [
+          2010,
+          2018
+        ],
+        "titles": 1
+      }
+    ]
+  },
+  "blowouts": [
+    {
+      "rank": 1,
+      "season": 2025,
+      "week": 14,
+      "winner": "Paradis' Playmakers",
+      "winner_score": 161.4,
+      "loser": "Brandon Knows Ball",
+      "loser_score": 54.8,
+      "margin": 106.6
+    },
+    {
+      "rank": 2,
+      "season": 2025,
+      "week": 7,
+      "winner": "Paradis' Playmakers",
+      "winner_score": 192.15,
+      "loser": "Weichert's Warmongers",
+      "loser_score": 92.65,
+      "margin": 99.5
+    },
+    {
+      "rank": 3,
+      "season": 2013,
+      "week": 9,
+      "winner": "Paradis' Playmakers",
+      "winner_score": 158.5,
+      "loser": "Robb's Raiders",
+      "loser_score": 59.5,
+      "margin": 99.0
+    },
+    {
+      "rank": 4,
+      "season": 2023,
+      "week": 4,
+      "winner": "Miller's Genuine Draft",
+      "winner_score": 185.05,
+      "loser": "Eddie & the Cruisers",
+      "loser_score": 89.75,
+      "margin": 95.3
+    },
+    {
+      "rank": 5,
+      "season": 2011,
+      "week": 7,
+      "winner": "Italian Cavallini",
+      "winner_score": 149.0,
+      "loser": "Robb's Raiders",
+      "loser_score": 55.0,
+      "margin": 94.0
+    },
+    {
+      "rank": 6,
+      "season": 2019,
+      "week": 10,
+      "winner": "Italian Cavallini",
+      "winner_score": 141.3,
+      "loser": "Ben's Gods",
+      "loser_score": 50.75,
+      "margin": 90.55
+    },
+    {
+      "rank": 7,
+      "season": 2022,
+      "week": 9,
+      "winner": "Miller's Genuine Draft",
+      "winner_score": 187.3,
+      "loser": "Brandon Knows Ball",
+      "loser_score": 96.85,
+      "margin": 90.45
+    },
+    {
+      "rank": 8,
+      "season": 2024,
+      "week": 11,
+      "winner": "Italian Cavallini",
+      "winner_score": 138.5,
+      "loser": "Eddie & the Cruisers",
+      "loser_score": 50.95,
+      "margin": 87.55
+    },
+    {
+      "rank": 9,
+      "season": 2010,
+      "week": 1,
+      "winner": "Italian Cavallini",
+      "winner_score": 170.0,
+      "loser": "Ben's Gods",
+      "loser_score": 83.5,
+      "margin": 86.5
+    },
+    {
+      "rank": 10,
+      "season": 2016,
+      "week": 10,
+      "winner": "Eddie & the Cruisers",
+      "winner_score": 144.5,
+      "loser": "Stu's Crew",
+      "loser_score": 59.0,
+      "margin": 85.5
+    }
+  ],
+  "worst_seasons": [
+    {
+      "rank": 1,
+      "franchise": "Brandon Knows Ball",
+      "season": 2025,
+      "record": "0-14",
+      "wins": 0,
+      "losses": 14,
+      "points_for": 1290.8,
+      "win_pct": 0.0,
+      "ppg": 92.2
+    },
+    {
+      "rank": 2,
+      "franchise": "Miller's Genuine Draft",
+      "season": 2024,
+      "record": "1-13",
+      "wins": 1,
+      "losses": 13,
+      "points_for": 1392.75,
+      "win_pct": 0.071,
+      "ppg": 99.48
+    },
+    {
+      "rank": 3,
+      "franchise": "Miller's Genuine Draft",
+      "season": 2017,
+      "record": "2-11",
+      "wins": 2,
+      "losses": 11,
+      "points_for": 1170.25,
+      "win_pct": 0.154,
+      "ppg": 90.02
+    },
+    {
+      "rank": 4,
+      "franchise": "Ben's Gods",
+      "season": 2011,
+      "record": "2-11",
+      "wins": 2,
+      "losses": 11,
+      "points_for": 1278.0,
+      "win_pct": 0.154,
+      "ppg": 98.31
+    },
+    {
+      "rank": 5,
+      "franchise": "Eddie & the Cruisers",
+      "season": 2022,
+      "record": "3-11",
+      "wins": 3,
+      "losses": 11,
+      "points_for": 1312.5,
+      "win_pct": 0.214,
+      "ppg": 93.75
+    }
+  ],
+  "draft": {
+    "auction_era": "2018-2025 (2021 data unavailable)",
+    "auction_seasons": [
+      2018,
+      2019,
+      2020,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "overall_record": {
+      "franchise": "Paradis' Playmakers",
+      "player": "Barkley, Saquon",
+      "position": "RB",
+      "bid": 76,
+      "season": 2019
+    },
+    "position_records": [
+      {
+        "position": "RB",
+        "franchise": "Paradis' Playmakers",
+        "player": "Barkley, Saquon",
+        "bid": 76,
+        "season": 2019
+      },
+      {
+        "position": "QB",
+        "franchise": "Stu's Crew",
+        "player": "Mahomes, Patrick",
+        "bid": 47,
+        "season": 2020
+      },
+      {
+        "position": "WR",
+        "franchise": "Purple Haze",
+        "player": "Thomas, Michael",
+        "bid": 69,
+        "season": 2020
+      },
+      {
+        "position": "TE",
+        "franchise": "Miller's Genuine Draft",
+        "player": "Kelce, Travis",
+        "bid": 57,
+        "season": 2023
+      },
+      {
+        "position": "Def",
+        "franchise": "Paradis' Playmakers",
+        "player": "Jaguars, Jacksonville",
+        "bid": 7,
+        "season": 2018
+      },
+      {
+        "position": "PK",
+        "franchise": "Paradis' Playmakers",
+        "player": "Aubrey, Brandon",
+        "bid": 4,
+        "season": 2025
+      }
+    ],
+    "top_bargains": [
+      {
+        "rank": 1,
+        "season": 2019,
+        "franchise": "Weichert's Warmongers",
+        "player": "Jackson, Lamar",
+        "bid": 1,
+        "total_points": 519.0,
+        "per_point": 0.002
+      },
+      {
+        "rank": 2,
+        "season": 2018,
+        "franchise": "Stu's Crew",
+        "player": "Ryan, Matt",
+        "bid": 1,
+        "total_points": 425.1,
+        "per_point": 0.002
+      },
+      {
+        "rank": 3,
+        "season": 2023,
+        "franchise": "Eddie & the Cruisers",
+        "player": "Purdy, Brock",
+        "bid": 1,
+        "total_points": 420.3,
+        "per_point": 0.002
+      },
+      {
+        "rank": 4,
+        "season": 2022,
+        "franchise": "Paradis' Playmakers",
+        "player": "Lawrence, Trevor",
+        "bid": 1,
+        "total_points": 366.4,
+        "per_point": 0.003
+      },
+      {
+        "rank": 5,
+        "season": 2020,
+        "franchise": "Weichert's Warmongers",
+        "player": "Tannehill, Ryan",
+        "bid": 1,
+        "total_points": 350.1,
+        "per_point": 0.003
+      }
+    ],
+    "top_busts": [
+      {
+        "rank": 1,
+        "season": 2020,
+        "franchise": "Ben's Gods",
+        "player": "Jones, Julio",
+        "bid": 62,
+        "player_avg": 13.4,
+        "league_avg": 31.0,
+        "severity": 1091.3
+      },
+      {
+        "rank": 2,
+        "season": 2019,
+        "franchise": "Miller's Genuine Draft",
+        "player": "Beckham, Odell",
+        "bid": 64,
+        "player_avg": 10.08,
+        "league_avg": 25.97,
+        "severity": 1016.9
+      },
+      {
+        "rank": 3,
+        "season": 2020,
+        "franchise": "Weichert's Warmongers",
+        "player": "Kittle, George",
+        "bid": 56,
+        "player_avg": 13.27,
+        "league_avg": 31.0,
+        "severity": 993.1
+      },
+      {
+        "rank": 4,
+        "season": 2024,
+        "franchise": "Italian Cavallini",
+        "player": "McCaffrey, Christian",
+        "bid": 70,
+        "player_avg": 10.07,
+        "league_avg": 23.87,
+        "severity": 965.8
+      },
+      {
+        "rank": 5,
+        "season": 2023,
+        "franchise": "Eddie & the Cruisers",
+        "player": "Ekeler, Austin",
+        "bid": 64,
+        "player_avg": 11.92,
+        "league_avg": 26.95,
+        "severity": 961.8
+      }
+    ]
+  },
+  "franchises": {
+    "Brandon Knows Ball": {
+      "notable": "0-14 in 2025 - worst season in digital history",
+      "worst_season": {
+        "year": 2025,
+        "record": "0-14",
+        "ppg": 92.2
+      }
+    },
+    "Paradis' Playmakers": {
+      "notable": "Most titles (4), most championship appearances, holds all-time blowout record",
+      "titles": 4,
+      "title_years": [
+        2012,
+        2019,
+        2020,
+        2025
+      ],
+      "runner_up_years": [
+        2014,
+        2021,
+        2024
+      ],
+      "all_time_blowout_record": {
+        "season": 2025,
+        "week": 14,
+        "score": 161.4,
+        "opponent": "Brandon Knows Ball",
+        "opponent_score": 54.8,
+        "margin": 106.6
+      }
+    }
+  }
+}

@@ -4,7 +4,7 @@ const SUGGESTED = [
   "Who has won the most championships?",
   "What's the biggest blowout in league history?",
   "How did Brandon do in 2025?",
-  "Who got the best FAAB bargain ever?",
+  "What's the closest game in league history?",
 ];
 
 export default function QueryDemo() {

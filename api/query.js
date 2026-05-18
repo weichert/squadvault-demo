@@ -54,6 +54,8 @@ function buildContext(q) {
   // FAAB / waiver bids
   if (/faab|waiver|pickup|bid|in.season|claimed/.test(lq))
     parts.push(`TOP FAAB BIDS: ${JSON.stringify(facts.top_faab_bids)}`);
+  if (/bargain|value|best pickup|dollars per|per dollar|efficient/.test(lq))
+    parts.push(`AUCTION BARGAINS: ${JSON.stringify(facts.draft.top_bargains)}`);
 
   // Bench / left on bench
   if (/bench|left on bench|should have started|wrong start|missed points/.test(lq))

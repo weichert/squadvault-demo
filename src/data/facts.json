@@ -624,141 +624,121 @@
       "season": 2024,
       "week": 14,
       "score": 198.8,
-      "franchise_name": "Paradis' Playmakers",
-      "role": "winner"
+      "franchise_name": "Paradis' Playmakers"
     },
     {
       "season": 2025,
       "week": 7,
       "score": 192.15,
-      "franchise_name": "Paradis' Playmakers",
-      "role": "winner"
+      "franchise_name": "Paradis' Playmakers"
     },
     {
       "season": 2014,
       "week": 8,
       "score": 187.5,
-      "franchise_name": "Stu's Crew",
-      "role": "winner"
+      "franchise_name": "Stu's Crew"
     },
     {
       "season": 2022,
       "week": 9,
       "score": 187.3,
-      "franchise_name": "Miller's Genuine Draft",
-      "role": "winner"
+      "franchise_name": "Miller's Genuine Draft"
     },
     {
       "season": 2023,
       "week": 4,
       "score": 185.05,
-      "franchise_name": "Miller's Genuine Draft",
-      "role": "winner"
+      "franchise_name": "Miller's Genuine Draft"
     },
     {
       "season": 2024,
       "week": 15,
       "score": 183.9,
-      "franchise_name": "Ben's Gods",
-      "role": "winner"
+      "franchise_name": "Ben's Gods"
     },
     {
       "season": 2012,
       "week": 9,
       "score": 183.5,
-      "franchise_name": "Stu's Crew",
-      "role": "winner"
+      "franchise_name": "Stu's Crew"
     },
     {
       "season": 2022,
       "week": 2,
       "score": 180.8,
-      "franchise_name": "Stu's Crew",
-      "role": "winner"
+      "franchise_name": "Stu's Crew"
     },
     {
       "season": 2023,
       "week": 5,
       "score": 180.6,
-      "franchise_name": "Italian Cavallini",
-      "role": "winner"
+      "franchise_name": "Italian Cavallini"
     },
     {
       "season": 2025,
       "week": 12,
       "score": 179.55,
-      "franchise_name": "Weichert's Warmongers",
-      "role": "winner"
+      "franchise_name": "Weichert's Warmongers"
     },
     {
       "season": 2019,
       "week": 8,
       "score": 177.75,
-      "franchise_name": "Neal's Neat Guy's",
-      "role": "winner"
+      "franchise_name": "Neal's Neat Guy's"
     },
     {
       "season": 2020,
       "week": 4,
       "score": 177.7,
-      "franchise_name": "Miller's Genuine Draft",
-      "role": "winner"
+      "franchise_name": "Miller's Genuine Draft"
     },
     {
       "season": 2019,
       "week": 5,
       "score": 177.2,
-      "franchise_name": "Neal's Neat Guy's",
-      "role": "winner"
+      "franchise_name": "Neal's Neat Guy's"
     },
     {
       "season": 2025,
       "week": 15,
       "score": 176.9,
-      "franchise_name": "Paradis' Playmakers",
-      "role": "winner"
+      "franchise_name": "Paradis' Playmakers"
     },
     {
       "season": 2019,
       "week": 5,
       "score": 174.5,
-      "franchise_name": "Italian Cavallini",
-      "role": "loser"
+      "franchise_name": "Italian Cavallini"
     },
     {
       "season": 2024,
       "week": 2,
       "score": 173.05,
-      "franchise_name": "Brandon Knows Ball",
-      "role": "winner"
+      "franchise_name": "Brandon Knows Ball"
     },
     {
       "season": 2022,
       "week": 11,
       "score": 172.5,
-      "franchise_name": "Italian Cavallini",
-      "role": "winner"
+      "franchise_name": "Italian Cavallini"
     },
     {
       "season": 2022,
       "week": 1,
       "score": 172.15,
-      "franchise_name": "Purple Haze",
-      "role": "winner"
+      "franchise_name": "Purple Haze"
     },
     {
       "season": 2023,
       "week": 3,
       "score": 170.2,
-      "franchise_name": "Miller's Genuine Draft",
-      "role": "winner"
+      "franchise_name": "Miller's Genuine Draft"
     },
     {
       "season": 2010,
       "week": 1,
       "score": 170.0,
-      "franchise_name": "Italian Cavallini",
-      "role": "winner"
+      "franchise_name": "Italian Cavallini"
     }
   ],
   "franchise_seasons": [
@@ -3820,6 +3800,188 @@
       "player_name": "Vick, Michael",
       "position": "QB",
       "franchise_name": "MGD"
+    }
+  ],
+  "closest_games": [
+    {
+      "season": 2010,
+      "week": 13,
+      "winner_score": 101.5,
+      "loser_score": 101.5,
+      "margin": 0.0,
+      "winner_name": "Ben's Gods",
+      "loser_name": "Italian Cavallini"
+    },
+    {
+      "season": 2011,
+      "week": 1,
+      "winner_score": 116.0,
+      "loser_score": 116.0,
+      "margin": 0.0,
+      "winner_name": "Purple Haze",
+      "loser_name": "Robb's Raiders"
+    },
+    {
+      "season": 2012,
+      "week": 14,
+      "winner_score": 99.5,
+      "loser_score": 99.5,
+      "margin": 0.0,
+      "winner_name": "SS Express",
+      "loser_name": "MGD"
+    },
+    {
+      "season": 2013,
+      "week": 12,
+      "winner_score": 74.5,
+      "loser_score": 74.5,
+      "margin": 0.0,
+      "winner_name": "MGD",
+      "loser_name": "Italian Cavallini"
+    },
+    {
+      "season": 2015,
+      "week": 8,
+      "winner_score": 94.0,
+      "loser_score": 94.0,
+      "margin": 0.0,
+      "winner_name": "Paradis' Playmakers",
+      "loser_name": "Ben's Gods"
+    },
+    {
+      "season": 2015,
+      "week": 13,
+      "winner_score": 112.0,
+      "loser_score": 112.0,
+      "margin": 0.0,
+      "winner_name": "Italian Cavallini",
+      "loser_name": "SS Express"
+    },
+    {
+      "season": 2023,
+      "week": 6,
+      "winner_score": 112.6,
+      "loser_score": 112.55,
+      "margin": 0.05,
+      "winner_name": "Purple Haze",
+      "loser_name": "Italian Cavallini"
+    },
+    {
+      "season": 2020,
+      "week": 13,
+      "winner_score": 111.05,
+      "loser_score": 110.95,
+      "margin": 0.1,
+      "winner_name": "Miller's Genuine Draft",
+      "loser_name": "Weichert's Warmongers"
+    },
+    {
+      "season": 2024,
+      "week": 4,
+      "winner_score": 108.0,
+      "loser_score": 107.85,
+      "margin": 0.15,
+      "winner_name": "Italian Cavallini",
+      "loser_name": "Miller's Genuine Draft"
+    },
+    {
+      "season": 2022,
+      "week": 10,
+      "winner_score": 126.85,
+      "loser_score": 126.65,
+      "margin": 0.2,
+      "winner_name": "Ben's Gods",
+      "loser_name": "Italian Cavallini"
+    },
+    {
+      "season": 2024,
+      "week": 2,
+      "winner_score": 95.7,
+      "loser_score": 95.4,
+      "margin": 0.3,
+      "winner_name": "Italian Cavallini",
+      "loser_name": "Purple Haze"
+    },
+    {
+      "season": 2019,
+      "week": 12,
+      "winner_score": 103.95,
+      "loser_score": 103.5,
+      "margin": 0.45,
+      "winner_name": "Stu's Crew",
+      "loser_name": "Neal's Neat Guy's"
+    },
+    {
+      "season": 2010,
+      "week": 10,
+      "winner_score": 114.0,
+      "loser_score": 113.5,
+      "margin": 0.5,
+      "winner_name": "Weichert's Warmongers",
+      "loser_name": "Italian Cavallini"
+    },
+    {
+      "season": 2010,
+      "week": 13,
+      "winner_score": 92.5,
+      "loser_score": 92.0,
+      "margin": 0.5,
+      "winner_name": "Eddie & the Cruisers",
+      "loser_name": "Robb's Raiders"
+    },
+    {
+      "season": 2012,
+      "week": 1,
+      "winner_score": 112.0,
+      "loser_score": 111.5,
+      "margin": 0.5,
+      "winner_name": "Robb's Raiders",
+      "loser_name": "Ben's Gods"
+    },
+    {
+      "season": 2012,
+      "week": 3,
+      "winner_score": 122.0,
+      "loser_score": 121.5,
+      "margin": 0.5,
+      "winner_name": "Eddie & the Cruisers",
+      "loser_name": "Italian Cavallini"
+    },
+    {
+      "season": 2015,
+      "week": 14,
+      "winner_score": 98.5,
+      "loser_score": 98.0,
+      "margin": 0.5,
+      "winner_name": "Ben's Gods",
+      "loser_name": "Paradis' Playmakers"
+    },
+    {
+      "season": 2016,
+      "week": 3,
+      "winner_score": 94.0,
+      "loser_score": 93.5,
+      "margin": 0.5,
+      "winner_name": "Ben's Gods",
+      "loser_name": "Purple Haze"
+    },
+    {
+      "season": 2016,
+      "week": 12,
+      "winner_score": 80.0,
+      "loser_score": 79.5,
+      "margin": 0.5,
+      "winner_name": "Purple Haze",
+      "loser_name": "Robb's Raiders"
+    },
+    {
+      "season": 2023,
+      "week": 11,
+      "winner_score": 111.8,
+      "loser_score": 111.25,
+      "margin": 0.55,
+      "winner_name": "Robb's Raiders",
+      "loser_name": "Italian Cavallini"
     }
   ]
 }

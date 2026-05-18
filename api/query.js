@@ -53,7 +53,6 @@ export default async function handler(req, res) {
   if (question.length > 500) return res.status(400).json({ error: "Question too long" });
 
   const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
-  console.log("KEY CHECK:", !!process.env.ANTHROPIC_API_KEY, (process.env.ANTHROPIC_API_KEY||"").slice(0,8));
   try {
     const context = buildContext(question);
     const message = await client.messages.create({

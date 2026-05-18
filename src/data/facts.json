@@ -3549,5 +3549,277 @@
       "player_name": "Luck, Andrew",
       "position": "QB"
     }
+  ],
+  "top_player_games": [
+    {
+      "season": 2010,
+      "week": 10,
+      "score": 77.0,
+      "is_starter": 1,
+      "player_name": "Vick, Michael",
+      "position": "QB",
+      "franchise_name": "MGD"
+    },
+    {
+      "season": 2011,
+      "week": 4,
+      "score": 76.0,
+      "is_starter": 1,
+      "player_name": "Rodgers, Aaron",
+      "position": "QB",
+      "franchise_name": "SS Express"
+    },
+    {
+      "season": 2011,
+      "week": 1,
+      "score": 72.0,
+      "is_starter": 1,
+      "player_name": "Brady, Tom",
+      "position": "QB",
+      "franchise_name": "MGD"
+    },
+    {
+      "season": 2011,
+      "week": 15,
+      "score": 71.0,
+      "is_starter": 1,
+      "player_name": "Brees, Drew",
+      "position": "QB",
+      "franchise_name": "Italian Cavallini"
+    },
+    {
+      "season": 2012,
+      "week": 6,
+      "score": 70.0,
+      "is_starter": 1,
+      "player_name": "Rodgers, Aaron",
+      "position": "QB",
+      "franchise_name": "SS Express"
+    },
+    {
+      "season": 2011,
+      "week": 12,
+      "score": 66.0,
+      "is_starter": 1,
+      "player_name": "Brees, Drew",
+      "position": "QB",
+      "franchise_name": "Italian Cavallini"
+    },
+    {
+      "season": 2013,
+      "week": 1,
+      "score": 65.0,
+      "is_starter": 1,
+      "player_name": "Manning, Peyton",
+      "position": "QB",
+      "franchise_name": "Robb's Raiders"
+    },
+    {
+      "season": 2010,
+      "week": 2,
+      "score": 64.0,
+      "is_starter": 1,
+      "player_name": "Schaub, Matt",
+      "position": "QB",
+      "franchise_name": "Ben's Gods"
+    },
+    {
+      "season": 2011,
+      "week": 7,
+      "score": 62.0,
+      "is_starter": 1,
+      "player_name": "Brees, Drew",
+      "position": "QB",
+      "franchise_name": "Italian Cavallini"
+    },
+    {
+      "season": 2012,
+      "week": 3,
+      "score": 62.0,
+      "is_starter": 1,
+      "player_name": "Roethlisberger, Ben",
+      "position": "QB",
+      "franchise_name": "Robb's Raiders"
+    },
+    {
+      "season": 2012,
+      "week": 4,
+      "score": 62.0,
+      "is_starter": 1,
+      "player_name": "Brees, Drew",
+      "position": "QB",
+      "franchise_name": "Weichert's Warmongers"
+    },
+    {
+      "season": 2024,
+      "week": 14,
+      "score": 61.3,
+      "is_starter": 1,
+      "player_name": "Allen, Josh",
+      "position": "QB",
+      "franchise_name": "Paradis' Playmakers"
+    },
+    {
+      "season": 2010,
+      "week": 1,
+      "score": 61.0,
+      "is_starter": 1,
+      "player_name": "Manning, Peyton",
+      "position": "QB",
+      "franchise_name": "Paradis' Playmakers"
+    },
+    {
+      "season": 2011,
+      "week": 2,
+      "score": 60.0,
+      "is_starter": 1,
+      "player_name": "Brady, Tom",
+      "position": "QB",
+      "franchise_name": "MGD"
+    },
+    {
+      "season": 2011,
+      "week": 13,
+      "score": 60.0,
+      "is_starter": 1,
+      "player_name": "Rodgers, Aaron",
+      "position": "QB",
+      "franchise_name": "SS Express"
+    },
+    {
+      "season": 2012,
+      "week": 2,
+      "score": 60.0,
+      "is_starter": 1,
+      "player_name": "Manning, Eli",
+      "position": "QB",
+      "franchise_name": "Eddie & the Cruisers"
+    },
+    {
+      "season": 2011,
+      "week": 1,
+      "score": 59.0,
+      "is_starter": 1,
+      "player_name": "Brees, Drew",
+      "position": "QB",
+      "franchise_name": "Italian Cavallini"
+    },
+    {
+      "season": 2019,
+      "week": 7,
+      "score": 58.05,
+      "is_starter": 1,
+      "player_name": "Rodgers, Aaron",
+      "position": "QB",
+      "franchise_name": "Stu's Crew"
+    },
+    {
+      "season": 2010,
+      "week": 12,
+      "score": 58.0,
+      "is_starter": 1,
+      "player_name": "Brady, Tom",
+      "position": "QB",
+      "franchise_name": "Purple Haze"
+    },
+    {
+      "season": 2010,
+      "week": 15,
+      "score": 58.0,
+      "is_starter": 1,
+      "player_name": "Vick, Michael",
+      "position": "QB",
+      "franchise_name": "MGD"
+    },
+    {
+      "season": 2012,
+      "week": 4,
+      "score": 58.0,
+      "is_starter": 1,
+      "player_name": "Brady, Tom",
+      "position": "QB",
+      "franchise_name": "Ben's Gods"
+    },
+    {
+      "season": 2012,
+      "week": 5,
+      "score": 58.0,
+      "is_starter": 1,
+      "player_name": "Brees, Drew",
+      "position": "QB",
+      "franchise_name": "Weichert's Warmongers"
+    },
+    {
+      "season": 2012,
+      "week": 7,
+      "score": 58.0,
+      "is_starter": 1,
+      "player_name": "Brees, Drew",
+      "position": "QB",
+      "franchise_name": "Weichert's Warmongers"
+    },
+    {
+      "season": 2012,
+      "week": 9,
+      "score": 58.0,
+      "is_starter": 1,
+      "player_name": "Palmer, Carson",
+      "position": "QB",
+      "franchise_name": "Ben's Gods"
+    },
+    {
+      "season": 2012,
+      "week": 12,
+      "score": 58.0,
+      "is_starter": 1,
+      "player_name": "Romo, Tony",
+      "position": "QB",
+      "franchise_name": "MGD"
+    },
+    {
+      "season": 2011,
+      "week": 4,
+      "score": 57.0,
+      "is_starter": 1,
+      "player_name": "Vick, Michael",
+      "position": "QB",
+      "franchise_name": "Stu's Crew"
+    },
+    {
+      "season": 2011,
+      "week": 11,
+      "score": 57.0,
+      "is_starter": 1,
+      "player_name": "Stafford, Matthew",
+      "position": "QB",
+      "franchise_name": "Eddie & the Cruisers"
+    },
+    {
+      "season": 2012,
+      "week": 8,
+      "score": 57.0,
+      "is_starter": 1,
+      "player_name": "Stafford, Matthew",
+      "position": "QB",
+      "franchise_name": "Italian Cavallini"
+    },
+    {
+      "season": 2023,
+      "week": 9,
+      "score": 56.5,
+      "is_starter": 1,
+      "player_name": "Stroud, C.J.",
+      "position": "QB",
+      "franchise_name": "Robb's Raiders"
+    },
+    {
+      "season": 2010,
+      "week": 3,
+      "score": 56.0,
+      "is_starter": 1,
+      "player_name": "Vick, Michael",
+      "position": "QB",
+      "franchise_name": "MGD"
+    }
   ]
 }

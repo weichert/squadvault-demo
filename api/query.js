@@ -36,16 +36,16 @@ function buildContext(q) {
     parts.push(`TOP PLAYER GAME SCORES: ${JSON.stringify(facts.top_player_games)}`);
 
   // Closest games
-  if (/closest|narrowest|closest game|one point|tight|near miss|squeaker/.test(lq))
+  if (/closest|narrowest|one point|tight|near miss|squeaker|close game|margin/.test(lq))
     parts.push(`CLOSEST GAMES: ${JSON.stringify(facts.closest_games)}`);
 
   // Highest team scores
-  if (/highest team|most points in a week|best team score|highest score ever|200 points/.test(lq))
+  if (/highest team|most points in a week|best team score|highest score ever|200 points|team ever put up|score a team/.test(lq))
     parts.push(`HIGHEST TEAM SCORES: ${JSON.stringify(facts.highest_team_scores)}`);
 
   // Franchise season summaries
-  if (/how did .+ do in|season record|points for|best season|season summary|ppg|per game/.test(lq))
-    parts.push(`FRANCHISE SEASONS: ${JSON.stringify(facts.franchise_seasons)}`);
+  if (/how did .+ do in|season record|points for|best season|season summary|ppg|per game|winning percentage|win pct|most points in a season|most season points|scored the most/.test(lq))
+    parts.push(`FRANCHISE SEASONS: ${JSON.stringify(facts.franchise_seasons.slice(0,40))}`);
 
   // Head to head
   if (/head.to.head|record against|vs |versus|rivalry|all.time record|matchup history/.test(lq))
@@ -83,6 +83,10 @@ function buildContext(q) {
     parts.push(`WORST SEASONS: ${JSON.stringify(facts.worst_seasons.slice(0,5))}`);
     parts.push(`HEAD TO HEAD: ${JSON.stringify(facts.head_to_head.slice(0,10))}`);
   }
+
+  // Safety: cap franchise_seasons everywhere to prevent token overflow
+  const idx = parts.findIndex(p => p.startsWith('FRANCHISE SEASONS:'));
+  if (idx !== -1) parts[idx] = `FRANCHISE SEASONS: ${JSON.stringify(facts.franchise_seasons.slice(0,40))}`;
 
   return parts.join("\n\n---\n\n");
 }
